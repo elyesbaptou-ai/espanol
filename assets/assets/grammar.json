@@ -1,0 +1,1416 @@
+{
+ "lessons": [
+  {
+   "id": "articles",
+   "title": "Les articles et le genre",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "el, la, los, las, un, una : chaque nom a un genre.",
+   "sections": [
+    {
+     "title": "Le genre",
+     "body": "Comme en français, chaque nom est masculin ou féminin. Les noms en -o sont surtout masculins (el libro), ceux en -a surtout féminins (la casa).\nAttention aux exceptions : el día, el mapa, el problema, la mano, la foto. Et le genre change parfois par rapport au français : el coche (la voiture), la leche (le lait), el color (la couleur)."
+    },
+    {
+     "title": "Les articles",
+     "body": "Défini : el (masc.), la (fém.), los (masc. pluriel), las (fém. pluriel).\nIndéfini : un, una, unos, unas.\nA + el devient al, de + el devient del : voy al cine, vengo del trabajo.\nDevant un nom féminin qui commence par a tonique, on met el : el agua, el águila (mais las aguas)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "el chico y la chica",
+     "roman": "èl TCHI-ko i la TCHI-ka",
+     "fr": "le garçon et la fille"
+    },
+    {
+     "ko": "los libros y las mesas",
+     "roman": "los LI-bros i las MÉ-sas",
+     "fr": "les livres et les tables"
+    },
+    {
+     "ko": "Voy al mercado.",
+     "roman": "boï al mèr-KA-do",
+     "fr": "Je vais au marché."
+    },
+    {
+     "ko": "Vengo del colegio.",
+     "roman": "BÈNN-go dèl ko-LÉ-khio",
+     "fr": "Je reviens de l'école."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Quel article va avec « problema » ?",
+     "answer": "el",
+     "wrong": [
+      "la",
+      "lo"
+     ],
+     "why": "Les mots grecs en -ma sont masculins : el problema, el tema."
+    },
+    {
+     "question": "Comment dit-on « au cinéma » (je vais…) ?",
+     "answer": "al cine",
+     "wrong": [
+      "a el cine",
+      "en el cine"
+     ],
+     "why": "A + el se contracte toujours en al."
+    },
+    {
+     "question": "« La leche » est…",
+     "answer": "féminin",
+     "wrong": [
+      "masculin",
+      "neutre"
+     ],
+     "why": "Le lait est féminin en espagnol : la leche."
+    }
+   ]
+  },
+  {
+   "id": "plural",
+   "title": "Le pluriel des noms et des adjectifs",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "-s après une voyelle, -es après une consonne.",
+   "sections": [
+    {
+     "title": "La règle",
+     "body": "Après une voyelle : on ajoute -s. Casa → casas, coche → coches.\nAprès une consonne : on ajoute -es. Ciudad → ciudades, árbol → árboles.\nLe z devient c : lápiz → lápices, vez → veces."
+    },
+    {
+     "title": "L'accord",
+     "body": "Les adjectifs s'accordent en genre et en nombre : un chico alto, unas chicas altas.\nLes adjectifs en -e ou en consonne ne changent pas au féminin : una mujer inteligente, una camisa azul."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "dos ciudades grandes",
+     "roman": "dos thiou-DA-dès GRANN-dès",
+     "fr": "deux grandes villes"
+    },
+    {
+     "ko": "unas flores rojas",
+     "roman": "OU-nas FLO-rès RRO-khas",
+     "fr": "des fleurs rouges"
+    },
+    {
+     "ko": "tres lápices azules",
+     "roman": "très LA-pi-thès a-THOU-lès",
+     "fr": "trois crayons bleus"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Pluriel de « ciudad » ?",
+     "answer": "ciudades",
+     "wrong": [
+      "ciudads",
+      "ciudadas"
+     ],
+     "why": "Consonne finale : on ajoute -es."
+    },
+    {
+     "question": "Pluriel de « lápiz » ?",
+     "answer": "lápices",
+     "wrong": [
+      "lápizes",
+      "lápizs"
+     ],
+     "why": "Le z devient c devant -es."
+    },
+    {
+     "question": "« Unas casas ___ » (blanc) ?",
+     "answer": "blancas",
+     "wrong": [
+      "blancos",
+      "blanca"
+     ],
+     "why": "Féminin pluriel : blancas."
+    }
+   ]
+  },
+  {
+   "id": "ser_estar",
+   "title": "Ser ou estar : les deux verbes « être »",
+   "category": "Verbes essentiels",
+   "level": 1,
+   "summary": "Ser pour ce qu'on est, estar pour comment ou où on est.",
+   "sections": [
+    {
+     "title": "Ser",
+     "body": "Pour l'identité, la nationalité, le métier, le caractère, la matière, l'heure.\nSoy Ana. Es francés. Somos profesores. Es simpática. Son las tres."
+    },
+    {
+     "title": "Estar",
+     "body": "Pour un état passager, une émotion, le lieu où se trouve quelqu'un ou quelque chose.\nEstoy cansado. Está en casa. El café está frío."
+    },
+    {
+     "title": "Ça change le sens",
+     "body": "Ser aburrido = être ennuyeux. Estar aburrido = s'ennuyer.\nSer listo = être intelligent. Estar listo = être prêt."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Soy francesa y estoy en Madrid.",
+     "roman": "soï frann-THÉ-sa i ès-TOÏ ènn ma-DRID",
+     "fr": "Je suis française et je suis à Madrid."
+    },
+    {
+     "ko": "Mi hermano es alto.",
+     "roman": "mi èr-MA-no ès AL-to",
+     "fr": "Mon frère est grand."
+    },
+    {
+     "ko": "Hoy estoy muy cansado.",
+     "roman": "oï ès-TOÏ mouï kann-SA-do",
+     "fr": "Aujourd'hui je suis très fatigué."
+    },
+    {
+     "ko": "La fiesta es en mi casa.",
+     "roman": "la FIÈS-ta ès ènn mi KA-sa",
+     "fr": "La fête a lieu chez moi."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Madrid ___ en España. »",
+     "answer": "está",
+     "wrong": [
+      "es",
+      "hay"
+     ],
+     "why": "Le lieu d'une chose précise : estar."
+    },
+    {
+     "question": "« Mi madre ___ médica. »",
+     "answer": "es",
+     "wrong": [
+      "está",
+      "tiene"
+     ],
+     "why": "Le métier : ser."
+    },
+    {
+     "question": "« ¿Estás listo? » veut dire…",
+     "answer": "Tu es prêt ?",
+     "wrong": [
+      "Tu es intelligent ?",
+      "Tu es malin ?"
+     ],
+     "why": "Estar listo = prêt, ser listo = intelligent."
+    }
+   ]
+  },
+  {
+   "id": "present_regular",
+   "title": "Le présent des verbes réguliers",
+   "category": "Verbes essentiels",
+   "level": 1,
+   "summary": "Trois groupes : -ar, -er, -ir.",
+   "sections": [
+    {
+     "title": "Les terminaisons",
+     "body": "-ar (hablar) : hablo, hablas, habla, hablamos, habláis, hablan.\n-er (comer) : como, comes, come, comemos, coméis, comen.\n-ir (vivir) : vivo, vives, vive, vivimos, vivís, viven."
+    },
+    {
+     "title": "Le pronom disparaît",
+     "body": "La terminaison suffit à savoir qui fait l'action : hablo = je parle. On ajoute yo, tú… seulement pour insister."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Hablo francés y español.",
+     "roman": "A-blo frann-THÈS i ès-pa-GNOL",
+     "fr": "Je parle français et espagnol."
+    },
+    {
+     "ko": "¿Dónde vives?",
+     "roman": "DONN-dé BI-bès ?",
+     "fr": "Où habites-tu ?"
+    },
+    {
+     "ko": "Comemos a las dos.",
+     "roman": "ko-MÉ-mos a las dos",
+     "fr": "Nous déjeunons à deux heures."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Nosotros ___ (vivir) en Sevilla. »",
+     "answer": "vivimos",
+     "wrong": [
+      "vivemos",
+      "vivamos"
+     ],
+     "why": "Groupe -ir : -imos à nous."
+    },
+    {
+     "question": "« Tú ___ (trabajar) mucho. »",
+     "answer": "trabajas",
+     "wrong": [
+      "trabajes",
+      "trabaja"
+     ],
+     "why": "Groupe -ar, tú : -as."
+    },
+    {
+     "question": "« Hablo » veut dire…",
+     "answer": "je parle",
+     "wrong": [
+      "il parle",
+      "parler"
+     ],
+     "why": "-o = yo."
+    }
+   ]
+  },
+  {
+   "id": "present_irregular",
+   "title": "Le présent des verbes irréguliers",
+   "category": "Verbes essentiels",
+   "level": 2,
+   "summary": "Verbes à diphtongue et premières personnes irrégulières.",
+   "sections": [
+    {
+     "title": "Les diphtongues",
+     "body": "Dans certains verbes, la voyelle du radical change quand elle est accentuée (pas à nosotros et vosotros).\ne → ie : querer (quiero, quieres… queremos), empezar, pensar, cerrar.\no → ue : poder (puedo, puedes… podemos), dormir, volver, costar.\ne → i : pedir (pido, pides… pedimos), repetir, servir."
+    },
+    {
+     "title": "Le « yo » irrégulier",
+     "body": "Hacer → hago, poner → pongo, salir → salgo, tener → tengo, venir → vengo, decir → digo, conocer → conozco, saber → sé."
+    },
+    {
+     "title": "Les plus irréguliers",
+     "body": "Ser : soy, eres, es, somos, sois, son. Ir : voy, vas, va, vamos, vais, van."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Quiero un café.",
+     "roman": "KIÉ-ro ounn ka-FÉ",
+     "fr": "Je veux un café."
+    },
+    {
+     "ko": "No puedo venir hoy.",
+     "roman": "no POUÉ-do bé-NIR oï",
+     "fr": "Je ne peux pas venir aujourd'hui."
+    },
+    {
+     "ko": "Salgo de casa a las ocho.",
+     "roman": "SAL-go dé KA-sa a las O-tcho",
+     "fr": "Je sors de chez moi à huit heures."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« ¿Tú ___ (poder) ayudarme? »",
+     "answer": "puedes",
+     "wrong": [
+      "podes",
+      "pueds"
+     ],
+     "why": "o → ue sauf à nosotros et vosotros."
+    },
+    {
+     "question": "« Yo ___ (hacer) los deberes. »",
+     "answer": "hago",
+     "wrong": [
+      "hazo",
+      "haco"
+     ],
+     "why": "Hacer : yo hago."
+    },
+    {
+     "question": "« Nosotros ___ (querer) ir. »",
+     "answer": "queremos",
+     "wrong": [
+      "quieremos",
+      "quieramos"
+     ],
+     "why": "Pas de diphtongue à nosotros."
+    }
+   ]
+  },
+  {
+   "id": "gustar",
+   "title": "Gustar : dire ce qu'on aime",
+   "category": "Verbes essentiels",
+   "level": 1,
+   "summary": "« Me gusta » : c'est la chose qui plaît.",
+   "sections": [
+    {
+     "title": "La construction",
+     "body": "On dit « la chose me plaît ». Le verbe s'accorde avec la chose aimée, pas avec la personne.\nMe gusta el café (singulier). Me gustan los gatos (pluriel). Me gusta bailar (infinitif = singulier)."
+    },
+    {
+     "title": "Les pronoms",
+     "body": "me, te, le, nos, os, les : me gusta, te gusta, le gusta…\nPour insister : a mí me gusta, a ti te gusta."
+    },
+    {
+     "title": "Les verbes comme gustar",
+     "body": "encantar (adorer), interesar, doler (faire mal), molestar (déranger), apetecer (avoir envie)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Me gusta mucho la música.",
+     "roman": "mé GOUS-ta MOU-tcho la MOU-si-ka",
+     "fr": "J'aime beaucoup la musique."
+    },
+    {
+     "ko": "¿Te gustan los perros?",
+     "roman": "té GOUS-tann los PÉ-rros ?",
+     "fr": "Tu aimes les chiens ?"
+    },
+    {
+     "ko": "A mi madre le encanta bailar.",
+     "roman": "a mi MA-dré lé ènn-KANN-ta baï-LAR",
+     "fr": "Ma mère adore danser."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Me ___ las fresas. »",
+     "answer": "gustan",
+     "wrong": [
+      "gusta",
+      "gusto"
+     ],
+     "why": "Les fraises (pluriel) : gustan."
+    },
+    {
+     "question": "« ¿A ti te gusta ___? »",
+     "answer": "viajar",
+     "wrong": [
+      "viajas",
+      "viajo"
+     ],
+     "why": "Après gusta : infinitif."
+    },
+    {
+     "question": "« Nos gusta » veut dire…",
+     "answer": "nous aimons",
+     "wrong": [
+      "tu aimes",
+      "ils aiment"
+     ],
+     "why": "Nos = à nous."
+    }
+   ]
+  },
+  {
+   "id": "possessives",
+   "title": "Les possessifs et les démonstratifs",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "mi, tu, su… et este, ese, aquel.",
+   "sections": [
+    {
+     "title": "Les possessifs",
+     "body": "mi(s), tu(s), su(s), nuestro/a(s), vuestro/a(s), su(s).\nSu veut dire « son, sa, leur » et aussi « votre » (usted) : le contexte décide."
+    },
+    {
+     "title": "Les démonstratifs",
+     "body": "Trois distances : este (près de moi), ese (près de toi), aquel (loin des deux).\nEste libro, esta mesa, estos libros, estas mesas.\nEsto, eso, aquello = ceci, cela (une idée, une chose inconnue)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Mi casa es tu casa.",
+     "roman": "mi KA-sa ès tou KA-sa",
+     "fr": "Ma maison est ta maison."
+    },
+    {
+     "ko": "Nuestros amigos viven aquí.",
+     "roman": "NOUÈS-tros a-MI-gos BI-bènn a-KI",
+     "fr": "Nos amis habitent ici."
+    },
+    {
+     "ko": "¿Qué es esto?",
+     "roman": "KÉ ès ÈS-to ?",
+     "fr": "Qu'est-ce que c'est ?"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« ___ hermanas » (mes) ?",
+     "answer": "Mis",
+     "wrong": [
+      "Mi",
+      "Mías"
+     ],
+     "why": "Pluriel : mis."
+    },
+    {
+     "question": "Une chose loin de nous deux :",
+     "answer": "aquel",
+     "wrong": [
+      "este",
+      "ese"
+     ],
+     "why": "Aquel = là-bas."
+    },
+    {
+     "question": "« Su coche » peut vouloir dire…",
+     "answer": "sa, leur ou votre voiture",
+     "wrong": [
+      "seulement sa voiture",
+      "ma voiture"
+     ],
+     "why": "Su sert pour él, ella, ellos et usted."
+    }
+   ]
+  },
+  {
+   "id": "hay",
+   "title": "Hay et estar : il y a / se trouver",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "Hay pour exister, está pour situer une chose connue.",
+   "sections": [
+    {
+     "title": "Hay",
+     "body": "Hay = il y a. Invariable, singulier comme pluriel. Il s'emploie avec un, una, des nombres ou sans article.\nHay un banco cerca. Hay muchos turistas."
+    },
+    {
+     "title": "Estar",
+     "body": "Pour situer une chose déjà connue, avec el, la, mi… : El banco está cerca."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Hay un supermercado en mi calle.",
+     "roman": "aï ounn sou-pèr-mèr-KA-do ènn mi KA-yé",
+     "fr": "Il y a un supermarché dans ma rue."
+    },
+    {
+     "ko": "¿Dónde está la estación?",
+     "roman": "DONN-dé ès-TA la ès-ta-THIONN ?",
+     "fr": "Où est la gare ?"
+    },
+    {
+     "ko": "No hay leche.",
+     "roman": "no aï LÉ-tché",
+     "fr": "Il n'y a pas de lait."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« ___ dos farmacias en el barrio. »",
+     "answer": "Hay",
+     "wrong": [
+      "Están",
+      "Son"
+     ],
+     "why": "Exister, avec un nombre : hay."
+    },
+    {
+     "question": "« La farmacia ___ al lado del banco. »",
+     "answer": "está",
+     "wrong": [
+      "hay",
+      "es"
+     ],
+     "why": "Chose précise (la) : estar."
+    },
+    {
+     "question": "Pluriel de « hay » ?",
+     "answer": "hay",
+     "wrong": [
+      "han",
+      "hayan"
+     ],
+     "why": "Hay est invariable."
+    }
+   ]
+  },
+  {
+   "id": "questions",
+   "title": "Poser des questions",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "¿…? et les mots interrogatifs avec accent.",
+   "sections": [
+    {
+     "title": "La ponctuation",
+     "body": "On ouvre et on ferme la question : ¿Hablas español? Pareil pour l'exclamation : ¡Hola!"
+    },
+    {
+     "title": "Les mots interrogatifs",
+     "body": "Toujours avec accent : qué, quién, dónde, cuándo, cómo, cuánto, cuál, por qué.\nSans accent, ils ne posent pas de question : porque = parce que, que = que."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "¿De dónde eres?",
+     "roman": "dé DONN-dé É-rès ?",
+     "fr": "D'où viens-tu ?"
+    },
+    {
+     "ko": "¿Cuántos años tienes?",
+     "roman": "KOUANN-tos A-gnos TIÉ-nès ?",
+     "fr": "Quel âge as-tu ?"
+    },
+    {
+     "ko": "¿Por qué estudias español? Porque me gusta.",
+     "roman": "por KÉ ès-TOU-dias ès-pa-GNOL ? POR-ké mé GOUS-ta",
+     "fr": "Pourquoi étudies-tu l'espagnol ? Parce que ça me plaît."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« ¿___ te llamas? »",
+     "answer": "Cómo",
+     "wrong": [
+      "Qué",
+      "Cuál"
+     ],
+     "why": "Comment t'appelles-tu : cómo."
+    },
+    {
+     "question": "« Parce que » s'écrit…",
+     "answer": "porque",
+     "wrong": [
+      "por qué",
+      "porqué"
+     ],
+     "why": "En un mot, sans accent."
+    },
+    {
+     "question": "« ¿___ cuesta? »",
+     "answer": "Cuánto",
+     "wrong": [
+      "Cuándo",
+      "Cómo"
+     ],
+     "why": "Combien : cuánto."
+    }
+   ]
+  },
+  {
+   "id": "reflexive",
+   "title": "Les verbes pronominaux",
+   "category": "Verbes essentiels",
+   "level": 2,
+   "summary": "me levanto, te duchas, se acuesta…",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "Le pronom se place avant le verbe conjugué : me, te, se, nos, os, se.\nLevantarse : me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan.\nAvec un infinitif, il peut se coller à la fin : voy a ducharme = me voy a duchar."
+    },
+    {
+     "title": "Plus nombreux qu'en français",
+     "body": "Llamarse (s'appeler), quedarse (rester), irse (s'en aller), dormirse (s'endormir)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Me llamo Lucía.",
+     "roman": "mé YA-mo lou-THI-a",
+     "fr": "Je m'appelle Lucía."
+    },
+    {
+     "ko": "Nos levantamos temprano.",
+     "roman": "nos lé-bann-TA-mos tèmm-PRA-no",
+     "fr": "Nous nous levons tôt."
+    },
+    {
+     "ko": "Me voy a casa.",
+     "roman": "mé boï a KA-sa",
+     "fr": "Je rentre à la maison."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Ellos ___ (acostarse) tarde. »",
+     "answer": "se acuestan",
+     "wrong": [
+      "se acostan",
+      "nos acuestan"
+     ],
+     "why": "o → ue et pronom se."
+    },
+    {
+     "question": "« Je vais me doucher » :",
+     "answer": "Voy a ducharme.",
+     "wrong": [
+      "Voy a duchar.",
+      "Me voy duchar."
+     ],
+     "why": "Le pronom se colle à l'infinitif."
+    },
+    {
+     "question": "« Irse » veut dire…",
+     "answer": "s'en aller",
+     "wrong": [
+      "aller",
+      "venir"
+     ],
+     "why": "Ir = aller, irse = partir."
+    }
+   ]
+  },
+  {
+   "id": "future_near",
+   "title": "Le futur proche : ir a + infinitif",
+   "category": "Le temps",
+   "level": 1,
+   "summary": "Voy a comer = je vais manger.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "Ir conjugué + a + infinitif : voy a viajar, vas a comer, vamos a salir.\nC'est la façon la plus courante de parler du futur à l'oral."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Mañana voy a estudiar.",
+     "roman": "ma-GNA-na boï a ès-tou-DIAR",
+     "fr": "Demain, je vais étudier."
+    },
+    {
+     "ko": "¿Vas a venir a la fiesta?",
+     "roman": "bas a bé-NIR a la FIÈS-ta ?",
+     "fr": "Tu vas venir à la fête ?"
+    },
+    {
+     "ko": "Va a llover.",
+     "roman": "ba a yo-BÈR",
+     "fr": "Il va pleuvoir."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Nous allons manger » :",
+     "answer": "Vamos a comer.",
+     "wrong": [
+      "Vamos comer.",
+      "Vamos de comer."
+     ],
+     "why": "Ne pas oublier le a."
+    },
+    {
+     "question": "« Ellos ___ a viajar. »",
+     "answer": "van",
+     "wrong": [
+      "vamos",
+      "va"
+     ],
+     "why": "Ellos : van."
+    },
+    {
+     "question": "Le futur proche se forme avec…",
+     "answer": "ir + a + infinitif",
+     "wrong": [
+      "ser + infinitif",
+      "estar + gérondif"
+     ],
+     "why": "Comme en français, avec « aller »."
+    }
+   ]
+  },
+  {
+   "id": "gerund",
+   "title": "Estar + gérondif : l'action en cours",
+   "category": "Le temps",
+   "level": 2,
+   "summary": "Estoy comiendo = je suis en train de manger.",
+   "sections": [
+    {
+     "title": "Le gérondif",
+     "body": "-ar → -ando (hablando). -er et -ir → -iendo (comiendo, viviendo).\nIrréguliers : leer → leyendo, dormir → durmiendo, pedir → pidiendo, ir → yendo."
+    },
+    {
+     "title": "L'emploi",
+     "body": "Estar + gérondif = être en train de. Bien plus fréquent qu'en français.\nSeguir + gérondif = continuer à. Llevar + durée + gérondif = faire depuis."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Estoy trabajando.",
+     "roman": "ès-TOÏ tra-ba-KHANN-do",
+     "fr": "Je suis en train de travailler."
+    },
+    {
+     "ko": "¿Qué estás haciendo?",
+     "roman": "KÉ ès-TAS a-THIÈNN-do ?",
+     "fr": "Qu'est-ce que tu fais ?"
+    },
+    {
+     "ko": "Sigo estudiando español.",
+     "roman": "SI-go ès-tou-DIANN-do ès-pa-GNOL",
+     "fr": "Je continue à étudier l'espagnol."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Gérondif de « comer » ?",
+     "answer": "comiendo",
+     "wrong": [
+      "comando",
+      "comendo"
+     ],
+     "why": "-er : -iendo."
+    },
+    {
+     "question": "Gérondif de « dormir » ?",
+     "answer": "durmiendo",
+     "wrong": [
+      "dormiendo",
+      "duermiendo"
+     ],
+     "why": "o devient u."
+    },
+    {
+     "question": "« Llevo un año viviendo aquí » :",
+     "answer": "J'habite ici depuis un an.",
+     "wrong": [
+      "J'ai habité ici un an.",
+      "Je vais habiter ici un an."
+     ],
+     "why": "Llevar + durée + gérondif."
+    }
+   ]
+  },
+  {
+   "id": "perfect",
+   "title": "Le passé composé (pretérito perfecto)",
+   "category": "Le temps",
+   "level": 2,
+   "summary": "He comido : un passé lié au présent.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "Haber au présent (he, has, ha, hemos, habéis, han) + participe.\nParticipe : -ar → -ado (hablado), -er/-ir → -ido (comido, vivido).\nIrréguliers : hecho, dicho, visto, escrito, puesto, vuelto, abierto, roto."
+    },
+    {
+     "title": "L'emploi en Espagne",
+     "body": "Pour un passé dans une période qui n'est pas finie : hoy, esta semana, este año, alguna vez, todavía no.\nOn n'intercale rien entre haber et le participe : nunca he visto (jamais « he nunca visto »)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Hoy he trabajado mucho.",
+     "roman": "oï é tra-ba-KHA-do MOU-tcho",
+     "fr": "Aujourd'hui, j'ai beaucoup travaillé."
+    },
+    {
+     "ko": "¿Has estado en México?",
+     "roman": "as ès-TA-do ènn MÉ-ksi-ko ?",
+     "fr": "Tu es déjà allé au Mexique ?"
+    },
+    {
+     "ko": "Todavía no he comido.",
+     "roman": "to-da-BI-a no é ko-MI-do",
+     "fr": "Je n'ai pas encore mangé."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Participe de « hacer » ?",
+     "answer": "hecho",
+     "wrong": [
+      "hacido",
+      "haciado"
+     ],
+     "why": "Irrégulier : hecho."
+    },
+    {
+     "question": "« Esta mañana ___ (ver) a Juan. »",
+     "answer": "he visto",
+     "wrong": [
+      "vi",
+      "veía"
+     ],
+     "why": "Esta mañana : période encore liée au présent."
+    },
+    {
+     "question": "Auxiliaire du passé composé :",
+     "answer": "haber",
+     "wrong": [
+      "tener",
+      "ser"
+     ],
+     "why": "Toujours haber, jamais ser."
+    }
+   ]
+  },
+  {
+   "id": "preterite",
+   "title": "Le passé simple (pretérito indefinido)",
+   "category": "Le temps",
+   "level": 2,
+   "summary": "Comí, hablaste : action terminée à un moment passé.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "-ar : hablé, hablaste, habló, hablamos, hablasteis, hablaron.\n-er/-ir : comí, comiste, comió, comimos, comisteis, comieron.\nIrréguliers fréquents : ser/ir → fui, fuiste, fue… ; tener → tuve ; hacer → hice, hizo ; estar → estuve."
+    },
+    {
+     "title": "L'emploi",
+     "body": "Pour une action finie dans une période terminée : ayer, el año pasado, en 2010, hace dos días.\nC'est le temps du récit, très courant à l'oral, contrairement au passé simple français."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Ayer fui al cine.",
+     "roman": "a-YÈR foui al THI-né",
+     "fr": "Hier, je suis allé au cinéma."
+    },
+    {
+     "ko": "El verano pasado viajamos a Perú.",
+     "roman": "èl bé-RA-no pa-SA-do bia-KHA-mos a pé-ROU",
+     "fr": "L'été dernier, nous avons voyagé au Pérou."
+    },
+    {
+     "ko": "¿Qué hiciste el sábado?",
+     "roman": "KÉ i-THIS-té èl SA-ba-do ?",
+     "fr": "Qu'as-tu fait samedi ?"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Ayer ___ (comer) en casa. »",
+     "answer": "comí",
+     "wrong": [
+      "he comido",
+      "comía"
+     ],
+     "why": "Ayer : période terminée, indefinido."
+    },
+    {
+     "question": "« Él ___ (tener) un accidente. »",
+     "answer": "tuvo",
+     "wrong": [
+      "tenió",
+      "tenía"
+     ],
+     "why": "Tener : tuve, tuvo."
+    },
+    {
+     "question": "« Fui » peut venir de…",
+     "answer": "ser et ir",
+     "wrong": [
+      "ir seulement",
+      "estar"
+     ],
+     "why": "Ser et ir ont le même indefinido."
+    }
+   ]
+  },
+  {
+   "id": "imperfect",
+   "title": "L'imparfait",
+   "category": "Le temps",
+   "level": 3,
+   "summary": "Hablaba, comía : décrire et raconter des habitudes passées.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "-ar : hablaba, hablabas, hablaba, hablábamos, hablabais, hablaban.\n-er/-ir : comía, comías, comía, comíamos, comíais, comían.\nSeuls trois irréguliers : ser (era), ir (iba), ver (veía)."
+    },
+    {
+     "title": "Imparfait ou indefinido ?",
+     "body": "Imparfait : le décor, la description, l'habitude. Indefinido : l'action qui fait avancer l'histoire.\nHacía sol cuando llegué. Cuando era pequeño, jugaba en la calle."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Cuando era niño, vivía en Toledo.",
+     "roman": "KOUANN-do É-ra NI-gno bi-BI-a ènn to-LÉ-do",
+     "fr": "Quand j'étais enfant, j'habitais à Tolède."
+    },
+    {
+     "ko": "Llovía y hacía frío.",
+     "roman": "yo-BI-a i a-THI-a FRI-o",
+     "fr": "Il pleuvait et il faisait froid."
+    },
+    {
+     "ko": "Leía cuando sonó el teléfono.",
+     "roman": "lé-I-a KOUANN-do so-NO èl té-LÉ-fo-no",
+     "fr": "Je lisais quand le téléphone a sonné."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« De niño ___ (jugar) al fútbol. »",
+     "answer": "jugaba",
+     "wrong": [
+      "jugué",
+      "he jugado"
+     ],
+     "why": "Habitude passée : imparfait."
+    },
+    {
+     "question": "Imparfait de « ser », yo :",
+     "answer": "era",
+     "wrong": [
+      "fui",
+      "sería"
+     ],
+     "why": "Ser : era."
+    },
+    {
+     "question": "« Dormía cuando ___ (llegar) mi hermano. »",
+     "answer": "llegó",
+     "wrong": [
+      "llegaba",
+      "ha llegado"
+     ],
+     "why": "L'action soudaine : indefinido."
+    }
+   ]
+  },
+  {
+   "id": "future",
+   "title": "Le futur simple et le conditionnel",
+   "category": "Le temps",
+   "level": 3,
+   "summary": "Hablaré, hablaría : l'infinitif + une terminaison.",
+   "sections": [
+    {
+     "title": "Le futur",
+     "body": "Infinitif + é, ás, á, emos, éis, án : hablaré, comerás, vivirá.\nRadicaux irréguliers : tendr- (tener), har- (hacer), podr- (poder), dir- (decir), saldr- (salir), vendr- (venir), querr-, sabr-, pondr-.\nIl sert aussi à faire une hypothèse : ¿Dónde estará Juan? = Où peut bien être Juan ?"
+    },
+    {
+     "title": "Le conditionnel",
+     "body": "Infinitif + ía, ías, ía, íamos, íais, ían : hablaría, haría, tendría.\nPour la politesse (¿Podría ayudarme?) et après « si » + subjonctif imparfait."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "El año que viene viviré en Valencia.",
+     "roman": "èl A-gno ké BIÉ-né bi-bi-RÉ ènn ba-LÈNN-thia",
+     "fr": "L'an prochain, je vivrai à Valence."
+    },
+    {
+     "ko": "Mañana lo haré.",
+     "roman": "ma-GNA-na lo a-RÉ",
+     "fr": "Demain, je le ferai."
+    },
+    {
+     "ko": "Me gustaría viajar a Chile.",
+     "roman": "mé gous-ta-RI-a bia-KHAR a TCHI-lé",
+     "fr": "J'aimerais voyager au Chili."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Futur de « tener », yo :",
+     "answer": "tendré",
+     "wrong": [
+      "teneré",
+      "tenré"
+     ],
+     "why": "Radical tendr-."
+    },
+    {
+     "question": "« J'aimerais » :",
+     "answer": "me gustaría",
+     "wrong": [
+      "me gustará",
+      "me gustaba"
+     ],
+     "why": "Conditionnel."
+    },
+    {
+     "question": "« ¿Qué hora será? » veut dire…",
+     "answer": "Quelle heure peut-il bien être ?",
+     "wrong": [
+      "Quelle heure sera-t-il demain ?",
+      "Quelle heure était-il ?"
+     ],
+     "why": "Le futur exprime une supposition."
+    }
+   ]
+  },
+  {
+   "id": "por_para",
+   "title": "Por ou para",
+   "category": "Prépositions",
+   "level": 2,
+   "summary": "Para = but, destination. Por = cause, moyen, durée.",
+   "sections": [
+    {
+     "title": "Para",
+     "body": "Le but (para + infinitif), le destinataire, la destination, la date limite.\nEstudio para aprender. Es para ti. Salgo para Madrid. Para el lunes."
+    },
+    {
+     "title": "Por",
+     "body": "La cause, le moyen, le passage par un lieu, l'échange, la durée vague.\nGracias por todo. Por teléfono. Paseo por el parque. Lo compré por diez euros. Por la mañana."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Este regalo es para ti.",
+     "roman": "ÈS-té rré-GA-lo ès PA-ra ti",
+     "fr": "Ce cadeau est pour toi."
+    },
+    {
+     "ko": "Gracias por tu ayuda.",
+     "roman": "GRA-thias por tou a-YOU-da",
+     "fr": "Merci pour ton aide."
+    },
+    {
+     "ko": "Te llamo por teléfono.",
+     "roman": "té YA-mo por té-LÉ-fo-no",
+     "fr": "Je t'appelle par téléphone."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Trabajo ___ ganar dinero. »",
+     "answer": "para",
+     "wrong": [
+      "por",
+      "de"
+     ],
+     "why": "But : para + infinitif."
+    },
+    {
+     "question": "« Gracias ___ venir. »",
+     "answer": "por",
+     "wrong": [
+      "para",
+      "a"
+     ],
+     "why": "Cause du remerciement : por."
+    },
+    {
+     "question": "« Caminamos ___ la playa. »",
+     "answer": "por",
+     "wrong": [
+      "para",
+      "en"
+     ],
+     "why": "Passer par un lieu : por."
+    }
+   ]
+  },
+  {
+   "id": "object_pronouns",
+   "title": "Les pronoms compléments",
+   "category": "Pronoms",
+   "level": 3,
+   "summary": "lo, la, le, se lo : remplacer les noms.",
+   "sections": [
+    {
+     "title": "COD et COI",
+     "body": "COD : lo, la, los, las (le livre → lo). COI : le, les (à lui, à elle, à vous).\nMe, te, nos, os servent pour les deux."
+    },
+    {
+     "title": "La place",
+     "body": "Avant le verbe conjugué : lo compro. Collé à l'infinitif, au gérondif et à l'impératif : voy a comprarlo, cómpralo."
+    },
+    {
+     "title": "Le + lo devient se lo",
+     "body": "Quand deux pronoms de 3e personne se suivent, le COI le / les devient se : se lo doy (je le lui donne)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "¿El libro? Lo tengo yo.",
+     "roman": "èl LI-bro ? lo TÈNN-go yo",
+     "fr": "Le livre ? C'est moi qui l'ai."
+    },
+    {
+     "ko": "Le escribo a mi madre.",
+     "roman": "lé ès-KRI-bo a mi MA-dré",
+     "fr": "J'écris à ma mère."
+    },
+    {
+     "ko": "Se lo explico mañana.",
+     "roman": "sé lo èks-PLI-ko ma-GNA-na",
+     "fr": "Je le lui explique demain."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« ¿Las llaves? Ya ___ tengo. »",
+     "answer": "las",
+     "wrong": [
+      "los",
+      "les"
+     ],
+     "why": "Las llaves : féminin pluriel."
+    },
+    {
+     "question": "« Je le lui donne » :",
+     "answer": "Se lo doy.",
+     "wrong": [
+      "Le lo doy.",
+      "Lo le doy."
+     ],
+     "why": "Le devient se devant lo."
+    },
+    {
+     "question": "« Voy a ___ » (le comprendre) :",
+     "answer": "entenderlo",
+     "wrong": [
+      "lo entender",
+      "entender lo"
+     ],
+     "why": "Pronom collé à l'infinitif."
+    }
+   ]
+  },
+  {
+   "id": "imperative",
+   "title": "L'impératif",
+   "category": "Verbes essentiels",
+   "level": 3,
+   "summary": "Habla, come, hable usted : donner un ordre ou un conseil.",
+   "sections": [
+    {
+     "title": "Tú (affirmatif)",
+     "body": "Comme la 3e personne du présent : habla, come, escribe. Irréguliers : ten, ven, haz, pon, sal, di, ve, sé."
+    },
+    {
+     "title": "Usted et la négation",
+     "body": "Usted : hable, coma, escriba (voyelle inversée). Ustedes : hablen, coman.\nNégatif : no + subjonctif : no hables, no comas.\nLes pronoms se collent à l'impératif affirmatif : dímelo, siéntese."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Habla más despacio, por favor.",
+     "roman": "A-bla MAS dès-PA-thio por fa-BOR",
+     "fr": "Parle plus lentement, s'il te plaît."
+    },
+    {
+     "ko": "Siga recto y gire a la izquierda.",
+     "roman": "SI-ga RRÈTH-to i KHI-ré a la ith-KIÈR-da",
+     "fr": "Continuez tout droit et tournez à gauche."
+    },
+    {
+     "ko": "No toques eso.",
+     "roman": "no TO-kès É-so",
+     "fr": "Ne touche pas à ça."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Impératif tú de « venir » :",
+     "answer": "ven",
+     "wrong": [
+      "viene",
+      "venga"
+     ],
+     "why": "Irrégulier : ven."
+    },
+    {
+     "question": "Impératif usted de « hablar » :",
+     "answer": "hable",
+     "wrong": [
+      "habla",
+      "hablad"
+     ],
+     "why": "Usted : -ar devient -e."
+    },
+    {
+     "question": "« Ne mange pas » (tú) :",
+     "answer": "No comas.",
+     "wrong": [
+      "No come.",
+      "No comes."
+     ],
+     "why": "Négatif : subjonctif."
+    }
+   ]
+  },
+  {
+   "id": "subjunctive",
+   "title": "Le subjonctif présent",
+   "category": "Modes",
+   "level": 4,
+   "summary": "Quiero que vengas : souhait, émotion, doute.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "On part du « yo » du présent, on enlève -o et on inverse la voyelle : hablo → hable, como → coma, tengo → tenga.\nIrréguliers : ser (sea), ir (vaya), estar (esté), haber (haya), saber (sepa), dar (dé)."
+    },
+    {
+     "title": "Quand l'employer",
+     "body": "Après un souhait ou une demande (quiero que, espero que, ojalá), une émotion (me alegra que), un doute (no creo que), un but (para que) et cuando pour le futur."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Espero que estés bien.",
+     "roman": "ès-PÉ-ro ké ès-TÈS biènn",
+     "fr": "J'espère que tu vas bien."
+    },
+    {
+     "ko": "Ojalá haga buen tiempo mañana.",
+     "roman": "o-kha-LA A-ga bouènn TIÈMM-po ma-GNA-na",
+     "fr": "Pourvu qu'il fasse beau demain."
+    },
+    {
+     "ko": "Te llamo cuando llegue.",
+     "roman": "té YA-mo KOUANN-do YÉ-gué",
+     "fr": "Je t'appelle quand j'arrive."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Quiero que tú ___ (venir). »",
+     "answer": "vengas",
+     "wrong": [
+      "vienes",
+      "vendrás"
+     ],
+     "why": "Souhait sur quelqu'un d'autre : subjonctif."
+    },
+    {
+     "question": "« Creo que ___ verdad. »",
+     "answer": "es",
+     "wrong": [
+      "sea",
+      "será"
+     ],
+     "why": "Creo que (affirmatif) : indicatif."
+    },
+    {
+     "question": "« No creo que ___ verdad. »",
+     "answer": "sea",
+     "wrong": [
+      "es",
+      "está"
+     ],
+     "why": "Doute (négatif) : subjonctif."
+    }
+   ]
+  },
+  {
+   "id": "comparisons",
+   "title": "Comparer",
+   "category": "Bases de la phrase",
+   "level": 2,
+   "summary": "más… que, menos… que, tan… como.",
+   "sections": [
+    {
+     "title": "Les comparatifs",
+     "body": "Más + adjectif + que : plus… que. Menos + adjectif + que : moins… que. Tan + adjectif + como : aussi… que.\nAvec un nom : tanto/a/os/as + nom + como (tanto dinero como tú).\nIrréguliers : mejor (meilleur, mieux), peor, mayor (plus âgé), menor (plus jeune)."
+    },
+    {
+     "title": "Le superlatif",
+     "body": "El / la más + adjectif + de : la ciudad más grande de España.\n-ísimo = très : buenísimo, carísimo."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Madrid es más grande que Sevilla.",
+     "roman": "ma-DRID ès MAS GRANN-dé ké sé-BI-ya",
+     "fr": "Madrid est plus grande que Séville."
+    },
+    {
+     "ko": "Soy tan alto como mi padre.",
+     "roman": "soï tann AL-to KO-mo mi PA-dré",
+     "fr": "Je suis aussi grand que mon père."
+    },
+    {
+     "ko": "Esta paella está buenísima.",
+     "roman": "ÈS-ta pa-É-ya ès-TA boué-NI-si-ma",
+     "fr": "Cette paella est excellente."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Aussi… que » :",
+     "answer": "tan… como",
+     "wrong": [
+      "tan… que",
+      "más… como"
+     ],
+     "why": "Égalité : tan… como."
+    },
+    {
+     "question": "Comparatif de « bueno » :",
+     "answer": "mejor",
+     "wrong": [
+      "más bueno",
+      "bueníssimo"
+     ],
+     "why": "Irrégulier : mejor."
+    },
+    {
+     "question": "« Le plus cher du magasin » :",
+     "answer": "el más caro de la tienda",
+     "wrong": [
+      "el más caro que la tienda",
+      "el caro más de la tienda"
+     ],
+     "why": "Superlatif : el más… de."
+    }
+   ]
+  },
+  {
+   "id": "conditional_if",
+   "title": "Les phrases avec « si »",
+   "category": "Modes",
+   "level": 4,
+   "summary": "Si tengo… / Si tuviera… / Si hubiera tenido…",
+   "sections": [
+    {
+     "title": "Le réel",
+     "body": "Si + présent, présent ou futur : Si llueve, me quedo en casa."
+    },
+    {
+     "title": "L'hypothèse",
+     "body": "Si + subjonctif imparfait, conditionnel : Si tuviera tiempo, viajaría.\nSubjonctif imparfait : on part du « ellos » de l'indefinido (tuvieron) → tuviera, tuvieras, tuviera…"
+    },
+    {
+     "title": "L'irréel du passé",
+     "body": "Si + plus-que-parfait du subjonctif, conditionnel passé : Si hubiera sabido, habría venido.\nJamais de conditionnel après « si »."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Si tienes hambre, come algo.",
+     "roman": "si TIÉ-nès AMM-bré KO-mé AL-go",
+     "fr": "Si tu as faim, mange quelque chose."
+    },
+    {
+     "ko": "Si fuera rico, compraría una casa en la playa.",
+     "roman": "si FOUÉ-ra RRI-ko komm-pra-RI-a OU-na KA-sa ènn la PLA-ya",
+     "fr": "Si j'étais riche, j'achèterais une maison à la plage."
+    },
+    {
+     "ko": "Si me hubieras llamado, te habría ayudado.",
+     "roman": "si mé ou-BIÉ-ras ya-MA-do té a-BRI-a a-you-DA-do",
+     "fr": "Si tu m'avais appelé, je t'aurais aidé."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Si ___ (tener) dinero, viajaría. »",
+     "answer": "tuviera",
+     "wrong": [
+      "tendría",
+      "tenía"
+     ],
+     "why": "Si + subjonctif imparfait."
+    },
+    {
+     "question": "« Si llueve, ___ en casa. »",
+     "answer": "me quedo",
+     "wrong": [
+      "me quedaría",
+      "me quede"
+     ],
+     "why": "Condition réelle : indicatif."
+    },
+    {
+     "question": "Après « si », on n'emploie jamais…",
+     "answer": "le conditionnel",
+     "wrong": [
+      "l'indicatif",
+      "le subjonctif imparfait"
+     ],
+     "why": "Comme en français : pas de conditionnel après si."
+    }
+   ]
+  }
+ ]
+}

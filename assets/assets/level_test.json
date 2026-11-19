@@ -1,0 +1,599 @@
+{
+ "sections": [
+  {
+   "id": "vocab",
+   "title": "Vocabulaire",
+   "minutes": 5,
+   "instruction": "Choisis le sens du mot.",
+   "questions": [
+    {
+     "question": "la manzana",
+     "answer": "la pomme",
+     "wrong": [
+      "la poire",
+      "l'orange",
+      "la fraise"
+     ],
+     "why": "La manzana = la pomme.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "ayer",
+     "answer": "hier",
+     "wrong": [
+      "demain",
+      "aujourd'hui",
+      "ce soir"
+     ],
+     "why": "Ayer = hier, mañana = demain, hoy = aujourd'hui.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "la biblioteca",
+     "answer": "la bibliothèque",
+     "wrong": [
+      "la librairie",
+      "le bureau",
+      "la banque"
+     ],
+     "why": "Faux ami : la librairie se dit « la librería ».",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "caro",
+     "answer": "cher",
+     "wrong": [
+      "bon marché",
+      "grand",
+      "loin"
+     ],
+     "why": "Caro = cher. Son contraire : barato.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "la cita",
+     "answer": "le rendez-vous",
+     "wrong": [
+      "la ville",
+      "le billet",
+      "la citation"
+     ],
+     "why": "Pedir cita = prendre rendez-vous.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "cómodo",
+     "answer": "confortable",
+     "wrong": [
+      "fatigué",
+      "pressé",
+      "difficile"
+     ],
+     "why": "Cómodo = confortable, pratique.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "embarazada",
+     "answer": "enceinte",
+     "wrong": [
+      "embarrassée",
+      "fatiguée",
+      "mariée"
+     ],
+     "why": "Faux ami célèbre : embarazada = enceinte.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "el éxito",
+     "answer": "le succès",
+     "wrong": [
+      "la sortie",
+      "l'examen",
+      "l'exemple"
+     ],
+     "why": "Faux ami : la sortie se dit « la salida ».",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "la vivienda",
+     "answer": "le logement",
+     "wrong": [
+      "la viande",
+      "la vie",
+      "la vitrine"
+     ],
+     "why": "La vivienda = le logement.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "lograr",
+     "answer": "parvenir à",
+     "wrong": [
+      "louer",
+      "loger",
+      "se lever"
+     ],
+     "why": "Lograr = réussir à, parvenir à.",
+     "level": 3,
+     "passage": null
+    }
+   ]
+  },
+  {
+   "id": "grammar",
+   "title": "Grammaire",
+   "minutes": 8,
+   "instruction": "Choisis la forme qui complète la phrase.",
+   "questions": [
+    {
+     "question": "Mi hermano ___ médico.",
+     "answer": "es",
+     "wrong": [
+      "está",
+      "hay",
+      "tiene"
+     ],
+     "why": "Le métier : ser.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "Madrid ___ en el centro de España.",
+     "answer": "está",
+     "wrong": [
+      "es",
+      "hay",
+      "tiene"
+     ],
+     "why": "Situer une chose précise : estar.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "Me ___ mucho los gatos.",
+     "answer": "gustan",
+     "wrong": [
+      "gusta",
+      "gusto",
+      "gustas"
+     ],
+     "why": "Los gatos (pluriel) : gustan.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "Yo ___ veinte años.",
+     "answer": "tengo",
+     "wrong": [
+      "soy",
+      "estoy",
+      "hago"
+     ],
+     "why": "L'âge avec tener.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "Ayer ___ al cine con mis amigos.",
+     "answer": "fui",
+     "wrong": [
+      "voy",
+      "iba",
+      "he ido"
+     ],
+     "why": "Ayer : indefinido. Ir : fui.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "Cuando era pequeño, ___ en un pueblo.",
+     "answer": "vivía",
+     "wrong": [
+      "viví",
+      "vivo",
+      "viviré"
+     ],
+     "why": "Description du passé : imparfait.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "Este regalo es ___ ti.",
+     "answer": "para",
+     "wrong": [
+      "por",
+      "a",
+      "de"
+     ],
+     "why": "Le destinataire : para.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "Hoy ___ mucho.",
+     "answer": "he trabajado",
+     "wrong": [
+      "trabajé",
+      "trabajaba",
+      "trabajaré"
+     ],
+     "why": "Hoy : pretérito perfecto.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "Espero que ___ un buen viaje.",
+     "answer": "tengas",
+     "wrong": [
+      "tienes",
+      "tendrás",
+      "tenías"
+     ],
+     "why": "Esperar que + subjonctif.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "Si tuviera tiempo, ___ más.",
+     "answer": "viajaría",
+     "wrong": [
+      "viajaré",
+      "viajo",
+      "viaje"
+     ],
+     "why": "Si + subjonctif imparfait, conditionnel.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "No creo que ___ verdad.",
+     "answer": "sea",
+     "wrong": [
+      "es",
+      "será",
+      "está"
+     ],
+     "why": "No creer que + subjonctif.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "¿Las llaves? Ya ___ he dado a Juan.",
+     "answer": "se las",
+     "wrong": [
+      "le las",
+      "las le",
+      "se los"
+     ],
+     "why": "Le devient se devant las ; las llaves est féminin.",
+     "level": 3,
+     "passage": null
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "title": "Compréhension écrite",
+   "minutes": 8,
+   "instruction": "Lis le texte, puis réponds.",
+   "questions": [
+    {
+     "question": "¿Dónde trabaja Pierre?",
+     "answer": "En un hotel.",
+     "wrong": [
+      "En una academia.",
+      "En un restaurante."
+     ],
+     "why": "« Trabajo en un hotel por las mañanas ».",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "¿Qué hace Pierre por las tardes?",
+     "answer": "Estudia español.",
+     "wrong": [
+      "Trabaja.",
+      "Va a la playa."
+     ],
+     "why": "« Por las tardes estudio español ».",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "¿Desde cuándo vive en Sevilla?",
+     "answer": "Desde septiembre.",
+     "wrong": [
+      "Desde enero.",
+      "Desde hace dos años."
+     ],
+     "why": "« Vivo en Sevilla desde septiembre ».",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "¿Se puede ir a la biblioteca este sábado?",
+     "answer": "No, está cerrada.",
+     "wrong": [
+      "Sí, por la mañana.",
+      "Sí, hasta las dos."
+     ],
+     "why": "« Este sábado la biblioteca estará cerrada por obras ».",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "¿Hasta qué hora abre el domingo?",
+     "answer": "Hasta las dos de la tarde.",
+     "wrong": [
+      "Hasta las diez.",
+      "Hasta las ocho."
+     ],
+     "why": "« De diez de la mañana a dos de la tarde ».",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "¿Cuántos libros se pueden llevar?",
+     "answer": "Cinco como máximo.",
+     "wrong": [
+      "Tres.",
+      "Diez."
+     ],
+     "why": "« Un máximo de cinco libros ».",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "¿Cuál NO es una ventaja del teletrabajo según el texto?",
+     "answer": "Ganar más dinero.",
+     "wrong": [
+      "Ahorrar tiempo.",
+      "Conciliar vida laboral y familiar."
+     ],
+     "why": "Le texte parle d'économiser, pas de gagner plus.",
+     "level": 3,
+     "passage": "t3"
+    },
+    {
+     "question": "¿Qué echan de menos algunos trabajadores?",
+     "answer": "El contacto con los compañeros.",
+     "wrong": [
+      "El transporte.",
+      "Su antiguo sueldo."
+     ],
+     "why": "« Algunos echan de menos el contacto con sus compañeros ».",
+     "level": 3,
+     "passage": "t3"
+    },
+    {
+     "question": "¿Qué están haciendo muchas empresas?",
+     "answer": "Apostar por un modelo mixto.",
+     "wrong": [
+      "Prohibir el teletrabajo.",
+      "Cerrar sus oficinas."
+     ],
+     "why": "« Muchas empresas están apostando por un modelo mixto ».",
+     "level": 3,
+     "passage": "t3"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "Compréhension orale",
+   "minutes": 9,
+   "instruction": "Écoute l'enregistrement (deux écoutes au maximum), puis réponds.",
+   "questions": [
+    {
+     "question": "¿Dónde están los servicios?",
+     "answer": "Al fondo, a la derecha.",
+     "wrong": [
+      "A la izquierda.",
+      "En la entrada."
+     ],
+     "why": "« Están al fondo, a la derecha ».",
+     "level": 1,
+     "passage": "a1"
+    },
+    {
+     "question": "¿Qué pide el cliente?",
+     "answer": "Otro café.",
+     "wrong": [
+      "La cuenta.",
+      "Un vaso de agua."
+     ],
+     "why": "« ¿Me trae otro café, por favor? ».",
+     "level": 1,
+     "passage": "a1"
+    },
+    {
+     "question": "¿Qué compra la clienta?",
+     "answer": "Las zapatillas.",
+     "wrong": [
+      "Los zapatos.",
+      "Las dos cosas."
+     ],
+     "why": "Les chaussures sont trop chères : elle prend les baskets.",
+     "level": 1,
+     "passage": "a2"
+    },
+    {
+     "question": "¿Cuánto paga?",
+     "answer": "25 euros.",
+     "wrong": [
+      "45 euros.",
+      "70 euros."
+     ],
+     "why": "« Las zapatillas cuestan veinticinco euros ».",
+     "level": 1,
+     "passage": "a2"
+    },
+    {
+     "question": "¿A qué hora habían quedado al principio?",
+     "answer": "A las siete.",
+     "wrong": [
+      "A las ocho.",
+      "A las seis."
+     ],
+     "why": "« Habíamos quedado a las siete ».",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "¿Por qué llega tarde Marta?",
+     "answer": "Sale tarde del trabajo.",
+     "wrong": [
+      "Hay mucho tráfico.",
+      "Se ha dormido."
+     ],
+     "why": "« Es que salgo tarde del trabajo ».",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "¿Dónde van a encontrarse?",
+     "answer": "En la puerta del cine.",
+     "wrong": [
+      "En el trabajo.",
+      "En la estación."
+     ],
+     "why": "« Nos vemos a las ocho en la puerta del cine ».",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "¿Qué le pasa al tren?",
+     "answer": "Tiene un retraso.",
+     "wrong": [
+      "Ha sido cancelado.",
+      "Ha cambiado de andén."
+     ],
+     "why": "« Sufrirá un retraso de aproximadamente cuarenta minutos ».",
+     "level": 3,
+     "passage": "a4"
+    },
+    {
+     "question": "¿Por qué?",
+     "answer": "Por una avería técnica.",
+     "wrong": [
+      "Por el mal tiempo.",
+      "Por una huelga."
+     ],
+     "why": "« Debido a una avería técnica ».",
+     "level": 3,
+     "passage": "a4"
+    }
+   ]
+  }
+ ],
+ "passages": {
+  "t1": {
+   "kind": "text",
+   "level": 1,
+   "text": "Me llamo Pierre y soy francés. Vivo en Sevilla desde septiembre. Trabajo en un hotel por las mañanas. Por las tardes estudio español en una academia. Los fines de semana voy a la playa con mis compañeros."
+  },
+  "t2": {
+   "kind": "text",
+   "level": 2,
+   "text": "AVISO. Biblioteca Municipal. Este sábado la biblioteca estará cerrada por obras. El domingo abrirá de diez de la mañana a dos de la tarde. Recuerde que cada persona puede llevarse un máximo de cinco libros durante tres semanas."
+  },
+  "t3": {
+   "kind": "text",
+   "level": 3,
+   "text": "Cada vez más españoles deciden trabajar desde casa al menos dos días por semana. Según una encuesta reciente, la mayoría afirma que así ahorra tiempo y dinero en transporte y puede conciliar mejor la vida laboral y familiar. Sin embargo, algunos echan de menos el contacto con sus compañeros y reconocen que les cuesta desconectar al final del día. Por eso, muchas empresas están apostando por un modelo mixto."
+  },
+  "a1": {
+   "kind": "audio",
+   "level": 1,
+   "lines": [
+    {
+     "speaker": "Cliente",
+     "ko": "Perdone, ¿dónde están los servicios?"
+    },
+    {
+     "speaker": "Camarero",
+     "ko": "Están al fondo, a la derecha, al lado de la cocina."
+    },
+    {
+     "speaker": "Cliente",
+     "ko": "Gracias. ¿Y me trae otro café, por favor?"
+    },
+    {
+     "speaker": "Camarero",
+     "ko": "Claro, ahora mismo."
+    }
+   ]
+  },
+  "a2": {
+   "kind": "audio",
+   "level": 1,
+   "lines": [
+    {
+     "speaker": "Clienta",
+     "ko": "¿Cuánto cuestan estos zapatos?"
+    },
+    {
+     "speaker": "Vendedor",
+     "ko": "Cuarenta y cinco euros."
+    },
+    {
+     "speaker": "Clienta",
+     "ko": "Son un poco caros. ¿Y estas zapatillas?"
+    },
+    {
+     "speaker": "Vendedor",
+     "ko": "Las zapatillas cuestan veinticinco euros."
+    },
+    {
+     "speaker": "Clienta",
+     "ko": "Perfecto, me llevo las zapatillas."
+    }
+   ]
+  },
+  "a3": {
+   "kind": "audio",
+   "level": 2,
+   "lines": [
+    {
+     "speaker": "Marta",
+     "ko": "¿Diego? Soy Marta. Oye, habíamos quedado a las siete, ¿verdad?"
+    },
+    {
+     "speaker": "Diego",
+     "ko": "Sí. ¿Pasa algo?"
+    },
+    {
+     "speaker": "Marta",
+     "ko": "Es que salgo tarde del trabajo. Llegaré sobre las ocho. ¿Te importa?"
+    },
+    {
+     "speaker": "Diego",
+     "ko": "No, tranquila. Entonces nos vemos a las ocho en la puerta del cine."
+    },
+    {
+     "speaker": "Marta",
+     "ko": "Genial, gracias. ¡Hasta luego!"
+    }
+   ]
+  },
+  "a4": {
+   "kind": "audio",
+   "level": 3,
+   "lines": [
+    {
+     "speaker": "Anuncio",
+     "ko": "Atención, señores pasajeros. Les informamos de que el tren con destino a Valencia, que tenía prevista su salida a las diez y cuarto, sufrirá un retraso de aproximadamente cuarenta minutos debido a una avería técnica. Les rogamos disculpen las molestias."
+    }
+   ]
+  }
+ }
+}

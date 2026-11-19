@@ -1,0 +1,943 @@
+{
+ "dialogues": [
+  {
+   "id": "cafe",
+   "title": "Au café",
+   "situation": "Tu commandes un petit-déjeuner dans un bar de Madrid.",
+   "level": 1,
+   "icon": "cup.and.saucer.fill",
+   "speakers": {
+    "A": "Camarero",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "¡Buenos días! ¿Qué le pongo?",
+     "roman": "BOUÉ-nos DI-as ! KÉ lé PONN-go ?",
+     "fr": "Bonjour ! Qu'est-ce que je vous sers ?",
+     "note": "Poner = servir, au bar. Le = vous (usted)."
+    },
+    {
+     "speaker": "B",
+     "ko": "Buenos días. Un café con leche, por favor.",
+     "roman": "BOUÉ-nos DI-as ounn ka-FÉ konn LÉ-tché por fa-BOR",
+     "fr": "Bonjour. Un café au lait, s'il vous plaît."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿Algo para comer?",
+     "roman": "AL-go PA-ra ko-MÈR ?",
+     "fr": "Quelque chose à manger ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Sí, una tostada con tomate.",
+     "roman": "SI OU-na tos-TA-da konn to-MA-té",
+     "fr": "Oui, une tartine à la tomate.",
+     "note": "Le petit-déjeuner typique : pain grillé, tomate râpée, huile d'olive."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿Para tomar aquí o para llevar?",
+     "roman": "PA-ra to-MAR a-KI o PA-ra yé-BAR ?",
+     "fr": "Sur place ou à emporter ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Para tomar aquí.",
+     "roman": "PA-ra to-MAR a-KI",
+     "fr": "Sur place."
+    },
+    {
+     "speaker": "A",
+     "ko": "Muy bien. Ahora mismo se lo traigo.",
+     "roman": "mouï biènn a-O-ra MIS-mo sé lo TRAÏ-go",
+     "fr": "Très bien. Je vous l'apporte tout de suite.",
+     "note": "Ahora mismo = tout de suite. Se lo = le lui (à vous)."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Cuánto es?",
+     "roman": "KOUANN-to ès ?",
+     "fr": "Ça fait combien ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Son tres euros con cincuenta.",
+     "roman": "sonn très ÉOU-ros konn thinn-KOUÈNN-ta",
+     "fr": "Ça fait trois euros cinquante."
+    },
+    {
+     "speaker": "B",
+     "ko": "Aquí tiene. Gracias.",
+     "roman": "a-KI TIÉ-né GRA-thias",
+     "fr": "Voici. Merci.",
+     "note": "Aquí tiene = voici (en tendant quelque chose)."
+    }
+   ]
+  },
+  {
+   "id": "meet",
+   "title": "Première rencontre",
+   "situation": "Tu rencontres quelqu'un lors d'un échange linguistique.",
+   "level": 1,
+   "icon": "hand.wave.fill",
+   "speakers": {
+    "A": "Lucía",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "¡Hola! Me llamo Lucía. ¿Y tú?",
+     "roman": "O-la ! mé YA-mo lou-THI-a i TOU ?",
+     "fr": "Salut ! Je m'appelle Lucía. Et toi ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Hola, Lucía. Me llamo Léa. Encantada.",
+     "roman": "O-la lou-THI-a mé YA-mo LÉ-a ènn-kann-TA-da",
+     "fr": "Salut, Lucía. Je m'appelle Léa. Enchantée.",
+     "note": "Encantada : au féminin."
+    },
+    {
+     "speaker": "A",
+     "ko": "Igualmente. ¿De dónde eres?",
+     "roman": "i-goual-MÈNN-té dé DONN-dé É-rès ?",
+     "fr": "Moi de même. D'où viens-tu ?",
+     "note": "Igualmente = également."
+    },
+    {
+     "speaker": "B",
+     "ko": "Soy francesa, de Burdeos.",
+     "roman": "soï frann-THÉ-sa dé bour-DÉ-os",
+     "fr": "Je suis française, de Bordeaux.",
+     "note": "Les villes ont souvent un nom espagnol."
+    },
+    {
+     "speaker": "A",
+     "ko": "¡Qué bien! ¿Y qué haces en Madrid?",
+     "roman": "KÉ biènn ! i KÉ A-thès ènn ma-DRID ?",
+     "fr": "Super ! Et que fais-tu à Madrid ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Estudio español en la universidad.",
+     "roman": "ès-TOU-dio ès-pa-GNOL ènn la ou-ni-bèr-si-DAD",
+     "fr": "J'étudie l'espagnol à l'université."
+    },
+    {
+     "speaker": "A",
+     "ko": "Pues hablas muy bien.",
+     "roman": "pouès A-blas mouï biènn",
+     "fr": "Eh bien, tu parles très bien.",
+     "note": "Pues = eh bien, très fréquent."
+    },
+    {
+     "speaker": "B",
+     "ko": "Gracias, pero todavía me cuesta un poco.",
+     "roman": "GRA-thias PÉ-ro to-da-BI-a mé KOUÈS-ta ounn PO-ko",
+     "fr": "Merci, mais j'ai encore un peu de mal.",
+     "note": "Costar = avoir du mal."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿Quieres tomar algo después de clase?",
+     "roman": "KIÉ-rès to-MAR AL-go dès-POUÈS dé KLA-sé ?",
+     "fr": "Tu veux boire un verre après le cours ?",
+     "note": "Tomar algo = prendre un verre."
+    },
+    {
+     "speaker": "B",
+     "ko": "¡Vale, me encantaría!",
+     "roman": "BA-lé mé ènn-kann-ta-RI-a !",
+     "fr": "D'accord, avec plaisir !"
+    }
+   ]
+  },
+  {
+   "id": "restaurant",
+   "title": "Au restaurant",
+   "situation": "Tu déjeunes dans un restaurant qui propose un menu du jour.",
+   "level": 1,
+   "icon": "fork.knife",
+   "speakers": {
+    "A": "Camarera",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buenas tardes. ¿Cuántos son?",
+     "roman": "BOUÉ-nas TAR-dès KOUANN-tos sonn ?",
+     "fr": "Bonjour. Vous êtes combien ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Somos dos.",
+     "roman": "SO-mos dos",
+     "fr": "Nous sommes deux."
+    },
+    {
+     "speaker": "A",
+     "ko": "Pasen por aquí. Esta es la carta.",
+     "roman": "PA-sènn por a-KI ÈS-ta ès la KAR-ta",
+     "fr": "Par ici. Voici la carte.",
+     "note": "Pasen : impératif (ustedes)."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Tienen menú del día?",
+     "roman": "TIÉ-nènn mé-NOU dèl DI-a ?",
+     "fr": "Vous avez un menu du jour ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Sí, son doce euros. De primero hay gazpacho o ensalada.",
+     "roman": "SI sonn DO-thé ÉOU-ros dé pri-MÉ-ro aï gath-PA-tcho o ènn-sa-LA-da",
+     "fr": "Oui, il est à douze euros. En entrée, il y a du gaspacho ou une salade."
+    },
+    {
+     "speaker": "B",
+     "ko": "Para mí, el gazpacho. Y de segundo, ¿qué hay?",
+     "roman": "PA-ra MI èl gath-PA-tcho i dé sé-GOUNN-do KÉ aï ?",
+     "fr": "Pour moi, le gaspacho. Et en plat, qu'est-ce qu'il y a ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Hay pollo asado o merluza a la plancha.",
+     "roman": "aï PO-yo a-SA-do o mèr-LOU-tha a la PLANN-tcha",
+     "fr": "Il y a du poulet rôti ou du merlu à la plancha."
+    },
+    {
+     "speaker": "B",
+     "ko": "La merluza, por favor.",
+     "roman": "la mèr-LOU-tha por fa-BOR",
+     "fr": "Le merlu, s'il vous plaît."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿Y para beber?",
+     "roman": "i PA-ra bé-BÈR ?",
+     "fr": "Et comme boisson ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Agua sin gas, por favor.",
+     "roman": "A-goua sinn gas por fa-BOR",
+     "fr": "De l'eau plate, s'il vous plaît."
+    },
+    {
+     "speaker": "A",
+     "ko": "Perfecto. Enseguida vuelvo.",
+     "roman": "pèr-FÈTH-to ènn-sé-GUI-da BOUÈL-bo",
+     "fr": "Parfait. Je reviens tout de suite."
+    }
+   ]
+  },
+  {
+   "id": "directions",
+   "title": "Demander son chemin",
+   "situation": "Tu cherches le musée du Prado.",
+   "level": 1,
+   "icon": "building.2.fill",
+   "speakers": {
+    "A": "Señor",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "B",
+     "ko": "Perdone, ¿dónde está el Museo del Prado?",
+     "roman": "pèr-DO-né DONN-dé ès-TA èl mou-SÉ-o dèl PRA-do ?",
+     "fr": "Excusez-moi, où est le musée du Prado ?",
+     "note": "Perdone : forme polie (usted)."
+    },
+    {
+     "speaker": "A",
+     "ko": "Está bastante cerca. ¿Va a pie?",
+     "roman": "ès-TA bas-TANN-té THÈR-ka ba a pié ?",
+     "fr": "C'est assez près. Vous y allez à pied ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Sí, a pie.",
+     "roman": "SI a pié",
+     "fr": "Oui, à pied."
+    },
+    {
+     "speaker": "A",
+     "ko": "Siga recto por esta calle hasta la plaza.",
+     "roman": "SI-ga RRÈTH-to por ÈS-ta KA-yé AS-ta la PLA-tha",
+     "fr": "Continuez tout droit dans cette rue jusqu'à la place.",
+     "note": "Seguir : impératif usted, siga."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Y después?",
+     "roman": "i dès-POUÈS ?",
+     "fr": "Et ensuite ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "En la plaza, gire a la derecha. El museo está al final de la avenida.",
+     "roman": "ènn la PLA-tha KHI-ré a la dé-RÉ-tcha èl mou-SÉ-o ès-TA al fi-NAL dé la a-bé-NI-da",
+     "fr": "Sur la place, tournez à droite. Le musée est au bout de l'avenue."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Está lejos?",
+     "roman": "ès-TA LÉ-khos ?",
+     "fr": "C'est loin ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "No, unos diez minutos andando.",
+     "roman": "no OU-nos dièth mi-NOU-tos ann-DANN-do",
+     "fr": "Non, une dizaine de minutes à pied.",
+     "note": "Unos = environ, devant un nombre."
+    },
+    {
+     "speaker": "B",
+     "ko": "Muchas gracias, muy amable.",
+     "roman": "MOU-tchas GRA-thias mouï a-MA-blé",
+     "fr": "Merci beaucoup, c'est très aimable."
+    },
+    {
+     "speaker": "A",
+     "ko": "De nada. ¡Que disfrute!",
+     "roman": "dé NA-da ké dis-FROU-té !",
+     "fr": "De rien. Profitez bien !",
+     "note": "Que + subjonctif pour un souhait."
+    }
+   ]
+  },
+  {
+   "id": "shop",
+   "title": "Dans une boutique",
+   "situation": "Tu essaies une veste.",
+   "level": 2,
+   "icon": "bag.fill",
+   "speakers": {
+    "A": "Dependienta",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Hola, ¿te puedo ayudar en algo?",
+     "roman": "O-la té POUÉ-do a-you-DAR ènn AL-go ?",
+     "fr": "Bonjour, je peux t'aider ?",
+     "note": "Dans les boutiques jeunes, on tutoie souvent."
+    },
+    {
+     "speaker": "B",
+     "ko": "Sí, busco una chaqueta negra.",
+     "roman": "SI BOUS-ko OU-na tcha-KÉ-ta NÉ-gra",
+     "fr": "Oui, je cherche une veste noire."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿Qué talla usas?",
+     "roman": "KÉ TA-ya OU-sas ?",
+     "fr": "Tu fais quelle taille ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "La M, creo.",
+     "roman": "la m KRÉ-o",
+     "fr": "Du M, je crois."
+    },
+    {
+     "speaker": "A",
+     "ko": "Mira, esta es muy bonita. ¿Quieres probártela?",
+     "roman": "MI-ra ÈS-ta ès mouï bo-NI-ta KIÉ-rès pro-BAR-té-la ?",
+     "fr": "Regarde, celle-ci est très jolie. Tu veux l'essayer ?",
+     "note": "Probar + te + la."
+    },
+    {
+     "speaker": "B",
+     "ko": "Sí, ¿dónde están los probadores?",
+     "roman": "SI DONN-dé ès-TANN los pro-ba-DO-rès ?",
+     "fr": "Oui, où sont les cabines ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Al fondo, a la izquierda.",
+     "roman": "al FONN-do a la ith-KIÈR-da",
+     "fr": "Au fond, à gauche."
+    },
+    {
+     "speaker": "B",
+     "ko": "Me queda un poco pequeña. ¿Tienes una L?",
+     "roman": "mé KÉ-da ounn PO-ko pé-KÉ-gna TIÉ-nès OU-na l ?",
+     "fr": "Elle est un peu petite. Tu as un L ?",
+     "note": "Quedar = aller (vêtement)."
+    },
+    {
+     "speaker": "A",
+     "ko": "Sí, aquí tienes.",
+     "roman": "SI a-KI TIÉ-nès",
+     "fr": "Oui, voilà."
+    },
+    {
+     "speaker": "B",
+     "ko": "Esta me queda perfecta. ¿Cuánto cuesta?",
+     "roman": "ÈS-ta mé KÉ-da pèr-FÈTH-ta KOUANN-to KOUÈS-ta ?",
+     "fr": "Celle-ci me va parfaitement. Elle coûte combien ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Cuarenta euros, pero hoy tiene un veinte por ciento de descuento.",
+     "roman": "koua-RÈNN-ta ÉOU-ros PÉ-ro oï TIÉ-né ounn BÈÏNN-té por THIÈNN-to dé dès-KOUÈNN-to",
+     "fr": "Quarante euros, mais aujourd'hui elle a vingt pour cent de réduction."
+    },
+    {
+     "speaker": "B",
+     "ko": "¡Genial! Me la llevo.",
+     "roman": "khé-NIAL ! mé la YÉ-bo",
+     "fr": "Génial ! Je la prends."
+    }
+   ]
+  },
+  {
+   "id": "doctor",
+   "title": "Chez le médecin",
+   "situation": "Tu ne te sens pas bien depuis deux jours.",
+   "level": 2,
+   "icon": "cross.fill",
+   "speakers": {
+    "A": "Médica",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buenos días. ¿Qué le pasa?",
+     "roman": "BOUÉ-nos DI-as KÉ lé PA-sa ?",
+     "fr": "Bonjour. Qu'est-ce qui vous arrive ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Me duele mucho la garganta y tengo fiebre.",
+     "roman": "mé DOUÉ-lé MOU-tcho la gar-GANN-ta i TÈNN-go FIÉ-bré",
+     "fr": "J'ai très mal à la gorge et j'ai de la fièvre.",
+     "note": "Doler fonctionne comme gustar."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿Desde cuándo?",
+     "roman": "DÈS-dé KOUANN-do ?",
+     "fr": "Depuis quand ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Desde hace dos días.",
+     "roman": "DÈS-dé A-thé dos DI-as",
+     "fr": "Depuis deux jours.",
+     "note": "Desde hace + durée."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿Tiene tos?",
+     "roman": "TIÉ-né tos ?",
+     "fr": "Vous toussez ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Sí, un poco, sobre todo por la noche.",
+     "roman": "SI ounn PO-ko SO-bré TO-do por la NO-tché",
+     "fr": "Oui, un peu, surtout la nuit."
+    },
+    {
+     "speaker": "A",
+     "ko": "A ver, abra la boca, por favor.",
+     "roman": "a bèr A-bra la BO-ka por fa-BOR",
+     "fr": "Voyons, ouvrez la bouche, s'il vous plaît.",
+     "note": "A ver = voyons."
+    },
+    {
+     "speaker": "A",
+     "ko": "Tiene la garganta muy roja. Es una infección.",
+     "roman": "TIÉ-né la gar-GANN-ta mouï RRO-kha ès OU-na inn-fèth-THIONN",
+     "fr": "Votre gorge est très rouge. C'est une infection."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Es grave?",
+     "roman": "ès GRA-bé ?",
+     "fr": "C'est grave ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "No, no se preocupe. Tome este antibiótico tres veces al día.",
+     "roman": "no no sé pré-o-KOU-pé TO-mé ÈS-té ann-ti-BIO-ti-ko très BÉ-thès al DI-a",
+     "fr": "Non, ne vous inquiétez pas. Prenez cet antibiotique trois fois par jour."
+    },
+    {
+     "speaker": "B",
+     "ko": "De acuerdo. Muchas gracias, doctora.",
+     "roman": "dé a-KOUÈR-do MOU-tchas GRA-thias doth-TO-ra",
+     "fr": "D'accord. Merci beaucoup, docteure."
+    }
+   ]
+  },
+  {
+   "id": "taxi",
+   "title": "En taxi",
+   "situation": "Tu prends un taxi pour l'aéroport.",
+   "level": 2,
+   "icon": "airplane",
+   "speakers": {
+    "A": "Taxista",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "B",
+     "ko": "Buenas tardes. Al aeropuerto, por favor.",
+     "roman": "BOUÉ-nas TAR-dès al a-é-ro-POUÈR-to por fa-BOR",
+     "fr": "Bonjour. À l'aéroport, s'il vous plaît."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿A qué terminal va?",
+     "roman": "a KÉ tèr-mi-NAL ba ?",
+     "fr": "Vous allez à quel terminal ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "A la terminal cuatro.",
+     "roman": "a la tèr-mi-NAL KOUA-tro",
+     "fr": "Au terminal quatre."
+    },
+    {
+     "speaker": "A",
+     "ko": "Muy bien. Hay bastante tráfico a esta hora.",
+     "roman": "mouï biènn aï bas-TANN-té TRA-fi-ko a ÈS-ta O-ra",
+     "fr": "Très bien. Il y a pas mal de circulation à cette heure-ci."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Cuánto tardaremos más o menos?",
+     "roman": "KOUANN-to tar-da-RÉ-mos MAS o MÉ-nos ?",
+     "fr": "Combien de temps on mettra à peu près ?",
+     "note": "Tardar : futur pour une estimation."
+    },
+    {
+     "speaker": "A",
+     "ko": "Unos cuarenta minutos, si no hay atascos.",
+     "roman": "OU-nos koua-RÈNN-ta mi-NOU-tos si no aï a-TAS-kos",
+     "fr": "Environ quarante minutes, s'il n'y a pas d'embouteillages."
+    },
+    {
+     "speaker": "B",
+     "ko": "Vale. Mi vuelo sale a las ocho.",
+     "roman": "BA-lé mi BOUÉ-lo SA-lé a las O-tcho",
+     "fr": "D'accord. Mon vol part à huit heures."
+    },
+    {
+     "speaker": "A",
+     "ko": "Tranquilo, llegamos a tiempo.",
+     "roman": "trann-KI-lo yé-GA-mos a TIÈMM-po",
+     "fr": "Ne vous inquiétez pas, on arrive à temps."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Puedo pagar con tarjeta?",
+     "roman": "POUÉ-do pa-GAR konn tar-KHÉ-ta ?",
+     "fr": "Je peux payer par carte ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Sí, claro, sin problema.",
+     "roman": "SI KLA-ro sinn pro-BLÉ-ma",
+     "fr": "Oui, bien sûr, sans problème."
+    }
+   ]
+  },
+  {
+   "id": "hotel",
+   "title": "À l'hôtel",
+   "situation": "Tu arrives à la réception de ton hôtel.",
+   "level": 2,
+   "icon": "house.fill",
+   "speakers": {
+    "A": "Recepcionista",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buenas noches, bienvenido. ¿En qué puedo ayudarle?",
+     "roman": "BOUÉ-nas NO-tchès biènn-bé-NI-do ènn KÉ POUÉ-do a-you-DAR-lé ?",
+     "fr": "Bonsoir, bienvenue. En quoi puis-je vous aider ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Buenas noches. Tengo una reserva a nombre de Martin.",
+     "roman": "BOUÉ-nas NO-tchès TÈNN-go OU-na rré-SÈR-ba a NOMM-bré dé MAR-tinn",
+     "fr": "Bonsoir. J'ai une réservation au nom de Martin."
+    },
+    {
+     "speaker": "A",
+     "ko": "Un momento… Sí, una habitación doble para tres noches.",
+     "roman": "ounn mo-MÈNN-to SI OU-na a-bi-ta-THIONN DO-blé PA-ra très NO-tchès",
+     "fr": "Un instant… Oui, une chambre double pour trois nuits."
+    },
+    {
+     "speaker": "B",
+     "ko": "Exacto. ¿El desayuno está incluido?",
+     "roman": "é-KSATH-to èl dé-sa-YOU-no ès-TA inn-KLOUI-do ?",
+     "fr": "Exactement. Le petit-déjeuner est compris ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Sí, se sirve de siete a diez en el comedor.",
+     "roman": "SI sé SIR-bé dé SIÉ-té a dièth ènn èl ko-mé-DOR",
+     "fr": "Oui, il est servi de sept à dix heures dans la salle à manger.",
+     "note": "Se sirve = on sert."
+    },
+    {
+     "speaker": "B",
+     "ko": "Perfecto. ¿Hay wifi en la habitación?",
+     "roman": "pèr-FÈTH-to aï OUI-fi ènn la a-bi-ta-THIONN ?",
+     "fr": "Parfait. Il y a le wifi dans la chambre ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Sí, la contraseña está en la tarjeta. ¿Me deja su pasaporte?",
+     "roman": "SI la konn-tra-SÉ-gna ès-TA ènn la tar-KHÉ-ta mé DÉ-kha sou pa-sa-POR-té ?",
+     "fr": "Oui, le mot de passe est sur la carte. Vous me laissez votre passeport ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Aquí tiene.",
+     "roman": "a-KI TIÉ-né",
+     "fr": "Voici."
+    },
+    {
+     "speaker": "A",
+     "ko": "Gracias. Su habitación es la 305, en el tercer piso.",
+     "roman": "GRA-thias sou a-bi-ta-THIONN ès la 305 ènn èl tèr-THÈR PI-so",
+     "fr": "Merci. Votre chambre est la 305, au troisième étage.",
+     "note": "Tercer devant un nom masculin."
+    },
+    {
+     "speaker": "B",
+     "ko": "Muchas gracias. ¡Hasta mañana!",
+     "roman": "MOU-tchas GRA-thias AS-ta ma-GNA-na !",
+     "fr": "Merci beaucoup. À demain !"
+    }
+   ]
+  },
+  {
+   "id": "friend",
+   "title": "Organiser une sortie",
+   "situation": "Ton ami Javier te propose de sortir ce week-end.",
+   "level": 2,
+   "icon": "bubble",
+   "speakers": {
+    "A": "Javier",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "¡Oye! ¿Qué haces este fin de semana?",
+     "roman": "O-yé ! KÉ A-thès ÈS-té finn dé sé-MA-na ?",
+     "fr": "Dis ! Tu fais quoi ce week-end ?",
+     "note": "Oye = écoute, pour attirer l'attention."
+    },
+    {
+     "speaker": "B",
+     "ko": "Todavía no lo sé. ¿Por qué?",
+     "roman": "to-da-BI-a no lo SÉ por KÉ ?",
+     "fr": "Je ne sais pas encore. Pourquoi ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Hay un concierto de flamenco el sábado. ¿Te apetece ir?",
+     "roman": "aï ounn konn-THIÈR-to dé fla-MÈNN-ko èl SA-ba-do té a-pé-TÉ-thé ir ?",
+     "fr": "Il y a un concert de flamenco samedi. Ça te dit d'y aller ?",
+     "note": "Apetecer fonctionne comme gustar."
+    },
+    {
+     "speaker": "B",
+     "ko": "¡Me encantaría! ¿A qué hora empieza?",
+     "roman": "mé ènn-kann-ta-RI-a ! a KÉ O-ra èmm-PIÉ-tha ?",
+     "fr": "J'adorerais ! Ça commence à quelle heure ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "A las diez de la noche.",
+     "roman": "a las dièth dé la NO-tché",
+     "fr": "À dix heures du soir."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Quedamos antes para cenar?",
+     "roman": "ké-DA-mos ANN-tès PA-ra thé-NAR ?",
+     "fr": "On se retrouve avant pour dîner ?",
+     "note": "Quedar = se donner rendez-vous."
+    },
+    {
+     "speaker": "A",
+     "ko": "Buena idea. ¿A las ocho y media en la Plaza Mayor?",
+     "roman": "BOUÉ-na i-DÉ-a a las O-tcho i MÉ-dia ènn la PLA-tha ma-YOR ?",
+     "fr": "Bonne idée. À huit heures et demie sur la Plaza Mayor ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Perfecto. ¿Compro yo las entradas?",
+     "roman": "pèr-FÈTH-to KOMM-pro yo las ènn-TRA-das ?",
+     "fr": "Parfait. C'est moi qui achète les billets ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "No te preocupes, ya las he comprado.",
+     "roman": "no té pré-o-KOU-pès ya las é komm-PRA-do",
+     "fr": "Ne t'inquiète pas, je les ai déjà achetés.",
+     "note": "Las = las entradas."
+    },
+    {
+     "speaker": "B",
+     "ko": "¡Genial! Nos vemos el sábado.",
+     "roman": "khé-NIAL ! nos BÉ-mos èl SA-ba-do",
+     "fr": "Génial ! On se voit samedi."
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "title": "Au travail",
+   "situation": "Ta cheffe te demande où en est un projet.",
+   "level": 3,
+   "icon": "briefcase.fill",
+   "speakers": {
+    "A": "Jefa",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buenos días. ¿Has terminado el informe para el cliente?",
+     "roman": "BOUÉ-nos DI-as as tèr-mi-NA-do èl inn-FOR-mé PA-ra èl KLIÈNN-té ?",
+     "fr": "Bonjour. Tu as terminé le rapport pour le client ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Casi. Me falta revisar los datos de ventas.",
+     "roman": "KA-si mé FAL-ta rré-bi-SAR los DA-tos dé BÈNN-tas",
+     "fr": "Presque. Il me reste à vérifier les chiffres de ventes.",
+     "note": "Faltar = manquer, rester à faire."
+    },
+    {
+     "speaker": "A",
+     "ko": "¿Crees que lo tendrás para el viernes?",
+     "roman": "KRÉ-ès ké lo tènn-DRAS PA-ra èl BIÈR-nès ?",
+     "fr": "Tu penses l'avoir pour vendredi ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Sí, si nadie me interrumpe, lo termino el jueves.",
+     "roman": "SI si NA-dié mé inn-té-RROUMM-pé lo tèr-MI-no èl KHOUÉ-bès",
+     "fr": "Oui, si personne ne m'interrompt, je le termine jeudi."
+    },
+    {
+     "speaker": "A",
+     "ko": "Perfecto. Necesito que me lo envíes antes de la reunión.",
+     "roman": "pèr-FÈTH-to né-thé-SI-to ké mé lo ènn-BI-ès ANN-tès dé la rréou-NIONN",
+     "fr": "Parfait. J'ai besoin que tu me l'envoies avant la réunion.",
+     "note": "Necesitar que + subjonctif."
+    },
+    {
+     "speaker": "B",
+     "ko": "De acuerdo. ¿La reunión sigue siendo a las diez?",
+     "roman": "dé a-KOUÈR-do la rréou-NIONN SI-gué SIÈNN-do a las dièth ?",
+     "fr": "D'accord. La réunion est toujours à dix heures ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "No, la hemos cambiado a las once.",
+     "roman": "no la É-mos kamm-BIA-do a las ONN-thé",
+     "fr": "Non, nous l'avons déplacée à onze heures."
+    },
+    {
+     "speaker": "B",
+     "ko": "Vale, lo apunto. ¿Quieres que prepare una presentación?",
+     "roman": "BA-lé lo a-POUNN-to KIÉ-rès ké pré-PA-ré OU-na pré-sènn-ta-THIONN ?",
+     "fr": "D'accord, je le note. Tu veux que je prépare une présentation ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Sí, algo breve, de cinco diapositivas como mucho.",
+     "roman": "SI AL-go BRÉ-bé dé THINN-ko dia-po-si-TI-bas KO-mo MOU-tcho",
+     "fr": "Oui, quelque chose de court, cinq diapositives maximum."
+    },
+    {
+     "speaker": "B",
+     "ko": "Entendido. Te la mando con el informe.",
+     "roman": "ènn-tènn-DI-do té la MANN-do konn èl inn-FOR-mé",
+     "fr": "Compris. Je te l'envoie avec le rapport."
+    }
+   ]
+  },
+  {
+   "id": "phone",
+   "title": "Au téléphone",
+   "situation": "Tu appelles le service client parce que ta commande n'est pas arrivée.",
+   "level": 3,
+   "icon": "globe",
+   "speakers": {
+    "A": "Atención al cliente",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Atención al cliente, le atiende Marta. ¿En qué puedo ayudarle?",
+     "roman": "a-tènn-THIONN al KLIÈNN-té lé a-TIÈNN-dé MAR-ta ènn KÉ POUÉ-do a-you-DAR-lé ?",
+     "fr": "Service client, Marta à l'appareil. En quoi puis-je vous aider ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Hola, buenas. Hice un pedido hace dos semanas y todavía no ha llegado.",
+     "roman": "O-la BOUÉ-nas I-thé ounn pé-DI-do A-thé dos sé-MA-nas i to-da-BI-a no a yé-GA-do",
+     "fr": "Bonjour. J'ai passé une commande il y a deux semaines et elle n'est toujours pas arrivée."
+    },
+    {
+     "speaker": "A",
+     "ko": "Lo siento mucho. ¿Me puede dar el número de pedido?",
+     "roman": "lo SIÈNN-to MOU-tcho mé POUÉ-dé dar èl NOU-mé-ro dé pé-DI-do ?",
+     "fr": "Je suis vraiment désolée. Pouvez-vous me donner le numéro de commande ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Sí, es el cuatro, siete, dos, uno, ocho.",
+     "roman": "SI ès èl KOUA-tro SIÉ-té dos OU-no O-tcho",
+     "fr": "Oui, c'est le quatre, sept, deux, un, huit."
+    },
+    {
+     "speaker": "A",
+     "ko": "Un momento, por favor… Parece que hubo un problema con la dirección.",
+     "roman": "ounn mo-MÈNN-to por fa-BOR pa-RÉ-thé ké OU-bo ounn pro-BLÉ-ma konn la di-rèth-THIONN",
+     "fr": "Un instant, s'il vous plaît… Il semble qu'il y ait eu un problème avec l'adresse."
+    },
+    {
+     "speaker": "B",
+     "ko": "¡Qué raro! La escribí correctamente.",
+     "roman": "KÉ RRA-ro ! la ès-kri-BI ko-rrèth-ta-MÈNN-té",
+     "fr": "C'est bizarre ! Je l'ai écrite correctement."
+    },
+    {
+     "speaker": "A",
+     "ko": "No se preocupe. Se lo volvemos a enviar hoy mismo, sin coste.",
+     "roman": "no sé pré-o-KOU-pé sé lo bol-BÉ-mos a ènn-BIAR oï MIS-mo sinn KOS-té",
+     "fr": "Ne vous inquiétez pas. Nous vous la renvoyons aujourd'hui même, sans frais.",
+     "note": "Volver a + infinitif = refaire."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Cuándo lo recibiré?",
+     "roman": "KOUANN-do lo rré-thi-bi-RÉ ?",
+     "fr": "Quand est-ce que je la recevrai ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "En dos o tres días laborables.",
+     "roman": "ènn dos o très DI-as la-bo-RA-blès",
+     "fr": "Dans deux ou trois jours ouvrables."
+    },
+    {
+     "speaker": "B",
+     "ko": "Muy bien. Muchas gracias por su ayuda.",
+     "roman": "mouï biènn MOU-tchas GRA-thias por sou a-YOU-da",
+     "fr": "Très bien. Merci beaucoup pour votre aide."
+    }
+   ]
+  },
+  {
+   "id": "flat",
+   "title": "Visiter un appartement",
+   "situation": "Tu visites un appartement à louer à Valence.",
+   "level": 3,
+   "icon": "house.fill",
+   "speakers": {
+    "A": "Propietaria",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Pasa, pasa. Este es el salón. Tiene mucha luz.",
+     "roman": "PA-sa PA-sa ÈS-té ès èl sa-LONN TIÉ-né MOU-tcha louth",
+     "fr": "Entre, entre. Voici le salon. Il est très lumineux."
+    },
+    {
+     "speaker": "B",
+     "ko": "Es muy bonito. ¿Cuántas habitaciones tiene?",
+     "roman": "ès mouï bo-NI-to KOUANN-tas a-bi-ta-THIO-nès TIÉ-né ?",
+     "fr": "Il est très joli. Il a combien de chambres ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Dos habitaciones y un baño. La cocina está totalmente equipada.",
+     "roman": "dos a-bi-ta-THIO-nès i ounn BA-gno la ko-THI-na ès-TA to-tal-MÈNN-té é-ki-PA-da",
+     "fr": "Deux chambres et une salle de bain. La cuisine est entièrement équipée."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Cuánto es el alquiler al mes?",
+     "roman": "KOUANN-to ès èl al-ki-LÈR al mès ?",
+     "fr": "Combien coûte le loyer par mois ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Ochocientos euros, con los gastos de comunidad incluidos.",
+     "roman": "o-tcho-THIÈNN-tos ÉOU-ros konn los GAS-tos dé ko-mou-ni-DAD inn-KLOUI-dos",
+     "fr": "Huit cents euros, charges de copropriété comprises."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Y la luz y el agua?",
+     "roman": "i la louth i èl A-goua ?",
+     "fr": "Et l'électricité et l'eau ?",
+     "note": "La luz = l'électricité, dans la vie courante."
+    },
+    {
+     "speaker": "A",
+     "ko": "Eso lo pagaría usted aparte.",
+     "roman": "É-so lo pa-ga-RI-a ous-TÈD a-PAR-té",
+     "fr": "Ça, vous le paieriez à part."
+    },
+    {
+     "speaker": "B",
+     "ko": "¿Hay que dejar una fianza?",
+     "roman": "aï ké dé-KHAR OU-na FIANN-tha ?",
+     "fr": "Il faut laisser une caution ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Sí, dos meses. Y el contrato es de un año como mínimo.",
+     "roman": "SI dos MÉ-sès i èl konn-TRA-to ès dé ounn A-gno KO-mo MI-ni-mo",
+     "fr": "Oui, deux mois. Et le contrat est d'un an minimum."
+    },
+    {
+     "speaker": "B",
+     "ko": "Me gusta mucho. ¿Puedo pensármelo hasta mañana?",
+     "roman": "mé GOUS-ta MOU-tcho POUÉ-do pènn-SAR-mé-lo AS-ta ma-GNA-na ?",
+     "fr": "Il me plaît beaucoup. Je peux y réfléchir jusqu'à demain ?",
+     "note": "Pensarse algo = réfléchir à quelque chose."
+    },
+    {
+     "speaker": "A",
+     "ko": "Claro, pero no tardes mucho: hay más gente interesada.",
+     "roman": "KLA-ro PÉ-ro no TAR-dès MOU-tcho aï MAS KHÈNN-té inn-té-ré-SA-da",
+     "fr": "Bien sûr, mais ne tarde pas trop : il y a d'autres personnes intéressées."
+    }
+   ]
+  }
+ ]
+}

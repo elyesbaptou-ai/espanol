@@ -1,0 +1,1841 @@
+{
+ "units": [
+  {
+   "id": "u01",
+   "number": 1,
+   "titleKo": "Me llamo Claire",
+   "titleFr": "Je m'appelle Claire",
+   "level": 1,
+   "grammar": "ser · llamarse · tú / usted",
+   "situation": "Premier jour à l'école de langues de Salamanque : Claire rencontre Pablo et sa professeure, Carmen.",
+   "lines": [
+    {
+     "speaker": "Carmen",
+     "ko": "¡Hola a todos! Me llamo Carmen y soy vuestra profesora.",
+     "fr": "Bonjour à tous ! Je m'appelle Carmen et je suis votre professeure."
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Hola, Carmen. Yo me llamo Claire.",
+     "fr": "Bonjour, Carmen. Moi, je m'appelle Claire."
+    },
+    {
+     "speaker": "Carmen",
+     "ko": "¿De dónde eres, Claire?",
+     "fr": "D'où viens-tu, Claire ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Soy francesa, de Lyon.",
+     "fr": "Je suis française, de Lyon."
+    },
+    {
+     "speaker": "Pablo",
+     "ko": "¡Hola! Yo soy Pablo. Soy de Argentina, de Buenos Aires.",
+     "fr": "Salut ! Moi, c'est Pablo. Je suis d'Argentine, de Buenos Aires."
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Encantada, Pablo. ¿Eres estudiante?",
+     "fr": "Enchantée, Pablo. Tu es étudiant ?"
+    },
+    {
+     "speaker": "Pablo",
+     "ko": "No, soy cocinero. ¿Y tú?",
+     "fr": "Non, je suis cuisinier. Et toi ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Yo soy enfermera.",
+     "fr": "Moi, je suis infirmière."
+    },
+    {
+     "speaker": "Carmen",
+     "ko": "Muy bien. ¡Bienvenidos a Salamanca!",
+     "fr": "Très bien. Bienvenue à Salamanque !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿De dónde es Claire?",
+     "answer": "De Francia.",
+     "wrong": [
+      "De Argentina.",
+      "De España."
+     ],
+     "why": "Claire dit « Soy francesa, de Lyon »."
+    },
+    {
+     "question": "¿Quién es Carmen?",
+     "answer": "La profesora.",
+     "wrong": [
+      "Una estudiante.",
+      "Una cocinera."
+     ],
+     "why": "« Soy vuestra profesora »."
+    },
+    {
+     "question": "¿Qué hace Pablo?",
+     "answer": "Es cocinero.",
+     "wrong": [
+      "Es estudiante.",
+      "Es enfermero."
+     ],
+     "why": "Pablo dit « No, soy cocinero »."
+    },
+    {
+     "question": "¿En qué ciudad están?",
+     "answer": "En Salamanca.",
+     "wrong": [
+      "En Lyon.",
+      "En Buenos Aires."
+     ],
+     "why": "« ¡Bienvenidos a Salamanca! »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Ser",
+     "body": "Pour l'identité, l'origine et le métier : soy, eres, es, somos, sois, son. Pas d'article devant le métier : soy enfermera."
+    },
+    {
+     "title": "Llamarse",
+     "body": "Me llamo, te llamas, se llama. ¿Cómo te llamas? = Comment t'appelles-tu ?"
+    }
+   ],
+   "drills": [
+    {
+     "question": "Yo ___ Claire.",
+     "answer": "me llamo",
+     "wrong": [
+      "te llamas",
+      "se llama"
+     ],
+     "why": "Yo : me llamo.",
+     "translation": "Je m'appelle Claire."
+    },
+    {
+     "question": "Pablo ___ de Argentina.",
+     "answer": "es",
+     "wrong": [
+      "eres",
+      "soy"
+     ],
+     "why": "Él : es.",
+     "translation": "Pablo est d'Argentine."
+    },
+    {
+     "question": "¿De dónde ___ tú?",
+     "answer": "eres",
+     "wrong": [
+      "es",
+      "soy"
+     ],
+     "why": "Tú : eres.",
+     "translation": "D'où es-tu ?"
+    },
+    {
+     "question": "Nosotros ___ estudiantes.",
+     "answer": "somos",
+     "wrong": [
+      "son",
+      "sois"
+     ],
+     "why": "Nosotros : somos.",
+     "translation": "Nous sommes étudiants."
+    },
+    {
+     "question": "Ella es ___.",
+     "answer": "profesora",
+     "wrong": [
+      "una profesora",
+      "la profesora"
+     ],
+     "why": "Pas d'article devant un métier après ser.",
+     "translation": "Elle est professeure."
+    }
+   ]
+  },
+  {
+   "id": "u02",
+   "number": 2,
+   "titleKo": "Mi familia",
+   "titleFr": "Ma famille",
+   "level": 1,
+   "grammar": "tener · possessifs · nombres",
+   "situation": "Claire montre une photo de sa famille à son amie Lucía.",
+   "lines": [
+    {
+     "speaker": "Lucía",
+     "ko": "¿Quién es este chico de la foto?",
+     "fr": "Qui est ce garçon sur la photo ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Es mi hermano, Hugo. Tiene diecinueve años.",
+     "fr": "C'est mon frère, Hugo. Il a dix-neuf ans."
+    },
+    {
+     "speaker": "Lucía",
+     "ko": "¿Y esta señora?",
+     "fr": "Et cette dame ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Es mi madre. Se llama Anne y es profesora de inglés.",
+     "fr": "C'est ma mère. Elle s'appelle Anne et elle est professeure d'anglais."
+    },
+    {
+     "speaker": "Lucía",
+     "ko": "¿Tienes más hermanos?",
+     "fr": "Tu as d'autres frères et sœurs ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Sí, también tengo una hermana mayor. Vive en París con su novio.",
+     "fr": "Oui, j'ai aussi une grande sœur. Elle habite à Paris avec son copain."
+    },
+    {
+     "speaker": "Lucía",
+     "ko": "Yo no tengo hermanos, soy hija única.",
+     "fr": "Moi, je n'ai pas de frères et sœurs, je suis fille unique."
+    },
+    {
+     "speaker": "Claire",
+     "ko": "¿Y tienes mascotas?",
+     "fr": "Et tu as des animaux ?"
+    },
+    {
+     "speaker": "Lucía",
+     "ko": "Sí, tengo dos gatos. Se llaman Luna y Sol.",
+     "fr": "Oui, j'ai deux chats. Ils s'appellent Luna et Sol."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Cuántos años tiene Hugo?",
+     "answer": "Diecinueve años.",
+     "wrong": [
+      "Nueve años.",
+      "Veinte años."
+     ],
+     "why": "« Tiene diecinueve años »."
+    },
+    {
+     "question": "¿Qué hace la madre de Claire?",
+     "answer": "Es profesora de inglés.",
+     "wrong": [
+      "Es enfermera.",
+      "Es cocinera."
+     ],
+     "why": "« Es profesora de inglés »."
+    },
+    {
+     "question": "¿Dónde vive la hermana de Claire?",
+     "answer": "En París.",
+     "wrong": [
+      "En Lyon.",
+      "En Salamanca."
+     ],
+     "why": "« Vive en París con su novio »."
+    },
+    {
+     "question": "¿Qué animales tiene Lucía?",
+     "answer": "Dos gatos.",
+     "wrong": [
+      "Un perro.",
+      "Dos perros."
+     ],
+     "why": "« Tengo dos gatos »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Tener",
+     "body": "Tengo, tienes, tiene, tenemos, tenéis, tienen. L'âge se dit avec tener : tengo veinte años."
+    },
+    {
+     "title": "Les possessifs",
+     "body": "mi(s), tu(s), su(s) : mi hermano, mis hermanos. Su = son, sa, leur ou votre."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Yo ___ dos hermanos.",
+     "answer": "tengo",
+     "wrong": [
+      "tiene",
+      "tienes"
+     ],
+     "why": "Yo : tengo.",
+     "translation": "J'ai deux frères."
+    },
+    {
+     "question": "¿Cuántos años ___ tú?",
+     "answer": "tienes",
+     "wrong": [
+      "tiene",
+      "tengo"
+     ],
+     "why": "Tú : tienes.",
+     "translation": "Quel âge as-tu ?"
+    },
+    {
+     "question": "___ padres viven en Lyon.",
+     "answer": "Mis",
+     "wrong": [
+      "Mi",
+      "Mía"
+     ],
+     "why": "Pluriel : mis.",
+     "translation": "Mes parents habitent à Lyon."
+    },
+    {
+     "question": "Lucía y ___ gatos.",
+     "answer": "sus",
+     "wrong": [
+      "su",
+      "suyo"
+     ],
+     "why": "Plusieurs chats : sus.",
+     "translation": "Lucía et ses chats."
+    },
+    {
+     "question": "Mi abuela ___ ochenta años.",
+     "answer": "tiene",
+     "wrong": [
+      "es",
+      "está"
+     ],
+     "why": "L'âge avec tener.",
+     "translation": "Ma grand-mère a quatre-vingts ans."
+    }
+   ]
+  },
+  {
+   "id": "u03",
+   "number": 3,
+   "titleKo": "¿Dónde está la estación?",
+   "titleFr": "Où est la gare ?",
+   "level": 1,
+   "grammar": "hay · estar · prépositions de lieu",
+   "situation": "Diego cherche la gare dans une ville qu'il ne connaît pas.",
+   "lines": [
+    {
+     "speaker": "Diego",
+     "ko": "Perdone, ¿hay una estación de tren cerca de aquí?",
+     "fr": "Excusez-moi, il y a une gare près d'ici ?"
+    },
+    {
+     "speaker": "Señora",
+     "ko": "Sí, la estación está en la avenida de Portugal.",
+     "fr": "Oui, la gare est dans l'avenue du Portugal."
+    },
+    {
+     "speaker": "Diego",
+     "ko": "¿Está lejos?",
+     "fr": "C'est loin ?"
+    },
+    {
+     "speaker": "Señora",
+     "ko": "No, está a diez minutos. Siga recto y después gire a la izquierda.",
+     "fr": "Non, c'est à dix minutes. Continuez tout droit puis tournez à gauche."
+    },
+    {
+     "speaker": "Diego",
+     "ko": "¿Hay un banco por aquí también?",
+     "fr": "Il y a aussi une banque par ici ?"
+    },
+    {
+     "speaker": "Señora",
+     "ko": "Sí, hay uno al lado de la farmacia, enfrente del parque.",
+     "fr": "Oui, il y en a une à côté de la pharmacie, en face du parc."
+    },
+    {
+     "speaker": "Diego",
+     "ko": "Muchas gracias, señora.",
+     "fr": "Merci beaucoup, madame."
+    },
+    {
+     "speaker": "Señora",
+     "ko": "De nada, buen viaje.",
+     "fr": "De rien, bon voyage."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Qué busca Diego?",
+     "answer": "La estación de tren.",
+     "wrong": [
+      "El aeropuerto.",
+      "Un hotel."
+     ],
+     "why": "« ¿Hay una estación de tren cerca de aquí? »."
+    },
+    {
+     "question": "¿Está lejos la estación?",
+     "answer": "No, está a diez minutos.",
+     "wrong": [
+      "Sí, a una hora.",
+      "Sí, a treinta minutos."
+     ],
+     "why": "« No, está a diez minutos »."
+    },
+    {
+     "question": "¿Dónde está el banco?",
+     "answer": "Al lado de la farmacia.",
+     "wrong": [
+      "Al lado del parque.",
+      "Detrás de la estación."
+     ],
+     "why": "« Hay uno al lado de la farmacia »."
+    },
+    {
+     "question": "¿Qué hay enfrente del banco?",
+     "answer": "El parque.",
+     "wrong": [
+      "La estación.",
+      "Un hotel."
+     ],
+     "why": "« Enfrente del parque »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Hay",
+     "body": "Il y a : invariable, avec un, una, un nombre ou sans article. Hay un banco, hay muchos bares."
+    },
+    {
+     "title": "Estar pour situer",
+     "body": "Avec un lieu précis (el, la, mi…) : la estación está cerca. Al lado de, enfrente de, detrás de, cerca de, lejos de."
+    }
+   ],
+   "drills": [
+    {
+     "question": "___ un supermercado en mi calle.",
+     "answer": "Hay",
+     "wrong": [
+      "Está",
+      "Es"
+     ],
+     "why": "Exister : hay.",
+     "translation": "Il y a un supermarché dans ma rue."
+    },
+    {
+     "question": "El hotel ___ cerca del museo.",
+     "answer": "está",
+     "wrong": [
+      "hay",
+      "es"
+     ],
+     "why": "Situer une chose précise : estar.",
+     "translation": "L'hôtel est près du musée."
+    },
+    {
+     "question": "La farmacia está al lado ___ banco.",
+     "answer": "del",
+     "wrong": [
+      "de el",
+      "al"
+     ],
+     "why": "De + el = del.",
+     "translation": "La pharmacie est à côté de la banque."
+    },
+    {
+     "question": "¿Dónde ___ los servicios?",
+     "answer": "están",
+     "wrong": [
+      "hay",
+      "son"
+     ],
+     "why": "Chose précise au pluriel : están.",
+     "translation": "Où sont les toilettes ?"
+    },
+    {
+     "question": "En la plaza ___ muchos bares.",
+     "answer": "hay",
+     "wrong": [
+      "están",
+      "son"
+     ],
+     "why": "Hay ne change pas au pluriel.",
+     "translation": "Sur la place, il y a beaucoup de bars."
+    }
+   ]
+  },
+  {
+   "id": "u04",
+   "number": 4,
+   "titleKo": "Un día normal",
+   "titleFr": "Une journée ordinaire",
+   "level": 1,
+   "grammar": "présent régulier · verbes pronominaux · l'heure",
+   "situation": "Elena raconte sa journée à Thomas, un collègue arrivé de Belgique.",
+   "lines": [
+    {
+     "speaker": "Thomas",
+     "ko": "Elena, ¿a qué hora empiezas a trabajar?",
+     "fr": "Elena, à quelle heure tu commences le travail ?"
+    },
+    {
+     "speaker": "Elena",
+     "ko": "A las nueve. Me levanto a las siete y media y desayuno en un bar.",
+     "fr": "À neuf heures. Je me lève à sept heures et demie et je prends le petit-déjeuner dans un bar."
+    },
+    {
+     "speaker": "Thomas",
+     "ko": "¿Comes en la oficina?",
+     "fr": "Tu déjeunes au bureau ?"
+    },
+    {
+     "speaker": "Elena",
+     "ko": "No, como en casa a las dos y media. Vivo muy cerca.",
+     "fr": "Non, je déjeune à la maison à deux heures et demie. J'habite très près."
+    },
+    {
+     "speaker": "Thomas",
+     "ko": "En Bélgica comemos a las doce.",
+     "fr": "En Belgique, nous déjeunons à midi."
+    },
+    {
+     "speaker": "Elena",
+     "ko": "¡Qué pronto! Aquí cenamos a las diez de la noche.",
+     "fr": "Que c'est tôt ! Ici, nous dînons à dix heures du soir."
+    },
+    {
+     "speaker": "Thomas",
+     "ko": "¿Y a qué hora te acuestas?",
+     "fr": "Et à quelle heure tu te couches ?"
+    },
+    {
+     "speaker": "Elena",
+     "ko": "Normalmente a medianoche. Los fines de semana, más tarde.",
+     "fr": "D'habitude à minuit. Le week-end, plus tard."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿A qué hora se levanta Elena?",
+     "answer": "A las siete y media.",
+     "wrong": [
+      "A las nueve.",
+      "A las ocho."
+     ],
+     "why": "« Me levanto a las siete y media »."
+    },
+    {
+     "question": "¿Dónde come Elena?",
+     "answer": "En casa.",
+     "wrong": [
+      "En la oficina.",
+      "En un restaurante."
+     ],
+     "why": "« Como en casa a las dos y media »."
+    },
+    {
+     "question": "¿A qué hora cenan en España?",
+     "answer": "A las diez de la noche.",
+     "wrong": [
+      "A las ocho.",
+      "A las doce."
+     ],
+     "why": "« Aquí cenamos a las diez de la noche »."
+    },
+    {
+     "question": "¿Cuándo se acuesta Elena más tarde?",
+     "answer": "Los fines de semana.",
+     "wrong": [
+      "Los lunes.",
+      "Nunca."
+     ],
+     "why": "« Los fines de semana, más tarde »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Le présent régulier",
+     "body": "-ar : hablo, hablas, habla… -er : como, comes, come… -ir : vivo, vives, vive…"
+    },
+    {
+     "title": "L'heure",
+     "body": "¿Qué hora es? Es la una, son las dos, son las tres y media, son las cinco menos cuarto. A las diez = à dix heures."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Yo ___ (desayunar) a las ocho.",
+     "answer": "desayuno",
+     "wrong": [
+      "desayunas",
+      "desayuna"
+     ],
+     "why": "-ar, yo : -o.",
+     "translation": "Je prends le petit-déjeuner à huit heures."
+    },
+    {
+     "question": "¿Dónde ___ (vivir) tú?",
+     "answer": "vives",
+     "wrong": [
+      "vivas",
+      "vivo"
+     ],
+     "why": "-ir, tú : -es.",
+     "translation": "Où habites-tu ?"
+    },
+    {
+     "question": "Nosotros ___ (comer) a las dos.",
+     "answer": "comemos",
+     "wrong": [
+      "comimos",
+      "comamos"
+     ],
+     "why": "-er, nosotros : -emos.",
+     "translation": "Nous déjeunons à deux heures."
+    },
+    {
+     "question": "Ella ___ a las siete.",
+     "answer": "se levanta",
+     "wrong": [
+      "me levanto",
+      "te levantas"
+     ],
+     "why": "Pronom se pour él / ella.",
+     "translation": "Elle se lève à sept heures."
+    },
+    {
+     "question": "Son las tres ___ media.",
+     "answer": "y",
+     "wrong": [
+      "más",
+      "con"
+     ],
+     "why": "Et demie : y media.",
+     "translation": "Il est trois heures et demie."
+    }
+   ]
+  },
+  {
+   "id": "u05",
+   "number": 5,
+   "titleKo": "En el mercado",
+   "titleFr": "Au marché",
+   "level": 1,
+   "grammar": "quantités · ¿cuánto? · nombres jusqu'à 100",
+   "situation": "Andrés fait les courses au marché central de Valence.",
+   "lines": [
+    {
+     "speaker": "Frutera",
+     "ko": "¡Buenos días! ¿Qué le pongo?",
+     "fr": "Bonjour ! Qu'est-ce que je vous mets ?"
+    },
+    {
+     "speaker": "Andrés",
+     "ko": "Buenos días. Un kilo de tomates, por favor.",
+     "fr": "Bonjour. Un kilo de tomates, s'il vous plaît."
+    },
+    {
+     "speaker": "Frutera",
+     "ko": "Aquí tiene. ¿Algo más?",
+     "fr": "Voici. Autre chose ?"
+    },
+    {
+     "speaker": "Andrés",
+     "ko": "Sí, medio kilo de fresas. ¿A cuánto están las naranjas?",
+     "fr": "Oui, un demi-kilo de fraises. À combien sont les oranges ?"
+    },
+    {
+     "speaker": "Frutera",
+     "ko": "A dos euros el kilo. Son de Valencia, están muy dulces.",
+     "fr": "À deux euros le kilo. Elles viennent de Valence, elles sont très sucrées."
+    },
+    {
+     "speaker": "Andrés",
+     "ko": "Entonces, dos kilos de naranjas también.",
+     "fr": "Alors, deux kilos d'oranges aussi."
+    },
+    {
+     "speaker": "Frutera",
+     "ko": "Muy bien. ¿Algo más?",
+     "fr": "Très bien. Autre chose ?"
+    },
+    {
+     "speaker": "Andrés",
+     "ko": "No, nada más. ¿Cuánto es todo?",
+     "fr": "Non, rien d'autre. Ça fait combien en tout ?"
+    },
+    {
+     "speaker": "Frutera",
+     "ko": "Son nueve euros con veinte.",
+     "fr": "Ça fait neuf euros vingt."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Cuántos kilos de tomates compra Andrés?",
+     "answer": "Un kilo.",
+     "wrong": [
+      "Dos kilos.",
+      "Medio kilo."
+     ],
+     "why": "« Un kilo de tomates »."
+    },
+    {
+     "question": "¿Cuánto cuesta el kilo de naranjas?",
+     "answer": "Dos euros.",
+     "wrong": [
+      "Un euro.",
+      "Nueve euros."
+     ],
+     "why": "« A dos euros el kilo »."
+    },
+    {
+     "question": "¿Cómo son las naranjas?",
+     "answer": "Muy dulces.",
+     "wrong": [
+      "Muy caras.",
+      "Pequeñas."
+     ],
+     "why": "« Están muy dulces »."
+    },
+    {
+     "question": "¿Cuánto paga Andrés en total?",
+     "answer": "Nueve euros con veinte.",
+     "wrong": [
+      "Dos euros.",
+      "Diecinueve euros."
+     ],
+     "why": "« Son nueve euros con veinte »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Les quantités",
+     "body": "Un kilo de, medio kilo de, una docena de (huevos), una botella de, un paquete de. Toujours avec « de »."
+    },
+    {
+     "title": "Demander un prix",
+     "body": "¿Cuánto cuesta? (une chose), ¿cuánto cuestan? (plusieurs), ¿cuánto es? (le total), ¿a cuánto está(n)? (prix qui varie)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Un kilo ___ tomates.",
+     "answer": "de",
+     "wrong": [
+      "con",
+      "a"
+     ],
+     "why": "Quantité + de.",
+     "translation": "Un kilo de tomates."
+    },
+    {
+     "question": "¿Cuánto ___ estas fresas?",
+     "answer": "cuestan",
+     "wrong": [
+      "cuesta",
+      "cuesto"
+     ],
+     "why": "Pluriel : cuestan.",
+     "translation": "Combien coûtent ces fraises ?"
+    },
+    {
+     "question": "___ kilo de naranjas, por favor.",
+     "answer": "Medio",
+     "wrong": [
+      "Media",
+      "Mitad"
+     ],
+     "why": "Kilo est masculin : medio.",
+     "translation": "Un demi-kilo d'oranges, s'il vous plaît."
+    },
+    {
+     "question": "Las naranjas ___ muy dulces hoy.",
+     "answer": "están",
+     "wrong": [
+      "son",
+      "hay"
+     ],
+     "why": "Un goût du moment : estar.",
+     "translation": "Les oranges sont très sucrées aujourd'hui."
+    },
+    {
+     "question": "Son cincuenta ___ cinco euros.",
+     "answer": "y",
+     "wrong": [
+      "e",
+      "con"
+     ],
+     "why": "Dizaine + y + unité.",
+     "translation": "Ça fait cinquante-cinq euros."
+    }
+   ]
+  },
+  {
+   "id": "u06",
+   "number": 6,
+   "titleKo": "Me gusta el fútbol",
+   "titleFr": "J'aime le football",
+   "level": 1,
+   "grammar": "gustar · encantar · también / tampoco",
+   "situation": "Marta et Daniel parlent de leurs goûts pendant une pause.",
+   "lines": [
+    {
+     "speaker": "Marta",
+     "ko": "Daniel, ¿qué haces en tu tiempo libre?",
+     "fr": "Daniel, qu'est-ce que tu fais pendant ton temps libre ?"
+    },
+    {
+     "speaker": "Daniel",
+     "ko": "Me gusta mucho el deporte. Juego al fútbol los martes.",
+     "fr": "J'aime beaucoup le sport. Je joue au football le mardi."
+    },
+    {
+     "speaker": "Marta",
+     "ko": "A mí no me gusta el fútbol. Prefiero nadar.",
+     "fr": "Moi, je n'aime pas le football. Je préfère nager."
+    },
+    {
+     "speaker": "Daniel",
+     "ko": "¿Y te gusta la música?",
+     "fr": "Et tu aimes la musique ?"
+    },
+    {
+     "speaker": "Marta",
+     "ko": "¡Me encanta! Sobre todo el flamenco y el jazz.",
+     "fr": "J'adore ! Surtout le flamenco et le jazz."
+    },
+    {
+     "speaker": "Daniel",
+     "ko": "A mí también me gusta el jazz. Pero no me gustan los conciertos, hay mucha gente.",
+     "fr": "Moi aussi j'aime le jazz. Mais je n'aime pas les concerts, il y a trop de monde."
+    },
+    {
+     "speaker": "Marta",
+     "ko": "A mí tampoco me gustan las multitudes. Escucho música en casa.",
+     "fr": "Moi non plus je n'aime pas la foule. J'écoute de la musique chez moi."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Qué deporte practica Daniel?",
+     "answer": "El fútbol.",
+     "wrong": [
+      "La natación.",
+      "El tenis."
+     ],
+     "why": "« Juego al fútbol los martes »."
+    },
+    {
+     "question": "¿Qué prefiere Marta?",
+     "answer": "Nadar.",
+     "wrong": [
+      "Jugar al fútbol.",
+      "Bailar."
+     ],
+     "why": "« Prefiero nadar »."
+    },
+    {
+     "question": "¿Qué música le encanta a Marta?",
+     "answer": "El flamenco y el jazz.",
+     "wrong": [
+      "El rock.",
+      "La música clásica."
+     ],
+     "why": "« Sobre todo el flamenco y el jazz »."
+    },
+    {
+     "question": "¿Por qué no le gustan los conciertos a Daniel?",
+     "answer": "Porque hay mucha gente.",
+     "wrong": [
+      "Porque son caros.",
+      "Porque son tarde."
+     ],
+     "why": "« Hay mucha gente »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Gustar",
+     "body": "La chose aimée est le sujet : me gusta el café, me gustan los gatos, me gusta bailar."
+    },
+    {
+     "title": "También / tampoco",
+     "body": "Accord avec une phrase positive : a mí también. Avec une phrase négative : a mí tampoco."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Me ___ los perros.",
+     "answer": "gustan",
+     "wrong": [
+      "gusta",
+      "gusto"
+     ],
+     "why": "Los perros : pluriel.",
+     "translation": "J'aime les chiens."
+    },
+    {
+     "question": "¿Te ___ bailar?",
+     "answer": "gusta",
+     "wrong": [
+      "gustan",
+      "gustas"
+     ],
+     "why": "Infinitif : singulier.",
+     "translation": "Tu aimes danser ?"
+    },
+    {
+     "question": "A Marta le ___ el flamenco.",
+     "answer": "encanta",
+     "wrong": [
+      "encantan",
+      "encanto"
+     ],
+     "why": "El flamenco : singulier.",
+     "translation": "Marta adore le flamenco."
+    },
+    {
+     "question": "— No me gusta el café. — A mí ___.",
+     "answer": "tampoco",
+     "wrong": [
+      "también",
+      "sí"
+     ],
+     "why": "Phrase négative : tampoco.",
+     "translation": "— Je n'aime pas le café. — Moi non plus."
+    },
+    {
+     "question": "A nosotros ___ gusta viajar.",
+     "answer": "nos",
+     "wrong": [
+      "os",
+      "les"
+     ],
+     "why": "À nous : nos.",
+     "translation": "Nous aimons voyager."
+    }
+   ]
+  },
+  {
+   "id": "u07",
+   "number": 7,
+   "titleKo": "El fin de semana que viene",
+   "titleFr": "Le week-end prochain",
+   "level": 2,
+   "grammar": "ir a + infinitif · quedar · proposer",
+   "situation": "Sofía et Luis organisent leur week-end à Barcelone.",
+   "lines": [
+    {
+     "speaker": "Sofía",
+     "ko": "¿Qué vas a hacer este fin de semana?",
+     "fr": "Qu'est-ce que tu vas faire ce week-end ?"
+    },
+    {
+     "speaker": "Luis",
+     "ko": "Voy a visitar a mis abuelos el sábado. ¿Y tú?",
+     "fr": "Je vais rendre visite à mes grands-parents samedi. Et toi ?"
+    },
+    {
+     "speaker": "Sofía",
+     "ko": "El sábado voy a estudiar, tengo un examen el lunes.",
+     "fr": "Samedi, je vais réviser, j'ai un examen lundi."
+    },
+    {
+     "speaker": "Luis",
+     "ko": "¿Y el domingo? ¿Quieres ir a la playa?",
+     "fr": "Et dimanche ? Tu veux aller à la plage ?"
+    },
+    {
+     "speaker": "Sofía",
+     "ko": "¡Buena idea! Va a hacer sol.",
+     "fr": "Bonne idée ! Il va faire beau."
+    },
+    {
+     "speaker": "Luis",
+     "ko": "¿Quedamos a las once en la estación?",
+     "fr": "On se retrouve à onze heures à la gare ?"
+    },
+    {
+     "speaker": "Sofía",
+     "ko": "Mejor a las doce, me gusta dormir los domingos.",
+     "fr": "Plutôt à midi, j'aime dormir le dimanche."
+    },
+    {
+     "speaker": "Luis",
+     "ko": "Vale, a las doce. Yo llevo la comida.",
+     "fr": "D'accord, à midi. J'apporte le déjeuner."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Qué va a hacer Luis el sábado?",
+     "answer": "Visitar a sus abuelos.",
+     "wrong": [
+      "Estudiar.",
+      "Ir a la playa."
+     ],
+     "why": "« Voy a visitar a mis abuelos el sábado »."
+    },
+    {
+     "question": "¿Por qué va a estudiar Sofía?",
+     "answer": "Porque tiene un examen.",
+     "wrong": [
+      "Porque llueve.",
+      "Porque trabaja."
+     ],
+     "why": "« Tengo un examen el lunes »."
+    },
+    {
+     "question": "¿Qué tiempo va a hacer el domingo?",
+     "answer": "Va a hacer sol.",
+     "wrong": [
+      "Va a llover.",
+      "Va a hacer frío."
+     ],
+     "why": "« Va a hacer sol »."
+    },
+    {
+     "question": "¿A qué hora quedan?",
+     "answer": "A las doce.",
+     "wrong": [
+      "A las once.",
+      "A la una."
+     ],
+     "why": "Sofía propose midi et Luis accepte."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Ir a + infinitif",
+     "body": "Le futur proche : voy, vas, va, vamos, vais, van + a + infinitif. Voy a estudiar."
+    },
+    {
+     "title": "Quedar",
+     "body": "Quedar = se donner rendez-vous. ¿Quedamos? ¿A qué hora quedamos? ¿Dónde quedamos?"
+    }
+   ],
+   "drills": [
+    {
+     "question": "Mañana ___ a comer en un restaurante.",
+     "answer": "vamos",
+     "wrong": [
+      "vais",
+      "van"
+     ],
+     "why": "Nosotros : vamos.",
+     "translation": "Demain, nous allons manger dans un restaurant."
+    },
+    {
+     "question": "¿Qué ___ a hacer tú esta noche?",
+     "answer": "vas",
+     "wrong": [
+      "va",
+      "voy"
+     ],
+     "why": "Tú : vas.",
+     "translation": "Qu'est-ce que tu vas faire ce soir ?"
+    },
+    {
+     "question": "Va ___ llover.",
+     "answer": "a",
+     "wrong": [
+      "de",
+      "en"
+     ],
+     "why": "Ir a + infinitif.",
+     "translation": "Il va pleuvoir."
+    },
+    {
+     "question": "Voy a visitar ___ mi abuela.",
+     "answer": "a",
+     "wrong": [
+      "de",
+      "—"
+     ],
+     "why": "A devant une personne en complément.",
+     "translation": "Je vais rendre visite à ma grand-mère."
+    },
+    {
+     "question": "¿___ a las ocho en la plaza?",
+     "answer": "Quedamos",
+     "wrong": [
+      "Quedan",
+      "Quedo"
+     ],
+     "why": "Proposer : nosotros.",
+     "translation": "On se retrouve à huit heures sur la place ?"
+    }
+   ]
+  },
+  {
+   "id": "u08",
+   "number": 8,
+   "titleKo": "¿Qué tal el viaje?",
+   "titleFr": "Comment s'est passé le voyage ?",
+   "level": 2,
+   "grammar": "pretérito indefinido · marqueurs du passé",
+   "situation": "Paula raconte ses vacances au Mexique à son ami Marc.",
+   "lines": [
+    {
+     "speaker": "Marc",
+     "ko": "¡Paula! ¿Qué tal tus vacaciones en México?",
+     "fr": "Paula ! Comment se sont passées tes vacances au Mexique ?"
+    },
+    {
+     "speaker": "Paula",
+     "ko": "¡Increíbles! Estuve tres semanas allí.",
+     "fr": "Incroyables ! J'y suis restée trois semaines."
+    },
+    {
+     "speaker": "Marc",
+     "ko": "¿Qué ciudades visitaste?",
+     "fr": "Quelles villes as-tu visitées ?"
+    },
+    {
+     "speaker": "Paula",
+     "ko": "Primero fui a Ciudad de México y después viajé a Oaxaca.",
+     "fr": "D'abord, je suis allée à Mexico, puis j'ai voyagé à Oaxaca."
+    },
+    {
+     "speaker": "Marc",
+     "ko": "¿Y qué te gustó más?",
+     "fr": "Et qu'est-ce qui t'a plu le plus ?"
+    },
+    {
+     "speaker": "Paula",
+     "ko": "La comida. Comí unos tacos buenísimos todos los días.",
+     "fr": "La nourriture. J'ai mangé de délicieux tacos tous les jours."
+    },
+    {
+     "speaker": "Marc",
+     "ko": "¿Hablaste mucho español?",
+     "fr": "Tu as beaucoup parlé espagnol ?"
+    },
+    {
+     "speaker": "Paula",
+     "ko": "Sí, todo el tiempo. Conocí a mucha gente muy amable.",
+     "fr": "Oui, tout le temps. J'ai rencontré beaucoup de gens très gentils."
+    },
+    {
+     "speaker": "Marc",
+     "ko": "¡Qué envidia! El año pasado yo no hice nada en verano.",
+     "fr": "Je t'envie ! L'an dernier, je n'ai rien fait de l'été."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Cuánto tiempo estuvo Paula en México?",
+     "answer": "Tres semanas.",
+     "wrong": [
+      "Tres días.",
+      "Un mes."
+     ],
+     "why": "« Estuve tres semanas allí »."
+    },
+    {
+     "question": "¿Adónde fue después de Ciudad de México?",
+     "answer": "A Oaxaca.",
+     "wrong": [
+      "A Cancún.",
+      "A Madrid."
+     ],
+     "why": "« Después viajé a Oaxaca »."
+    },
+    {
+     "question": "¿Qué le gustó más?",
+     "answer": "La comida.",
+     "wrong": [
+      "Las playas.",
+      "Los museos."
+     ],
+     "why": "« La comida »."
+    },
+    {
+     "question": "¿Qué hizo Marc el verano pasado?",
+     "answer": "Nada.",
+     "wrong": [
+      "Viajó a México.",
+      "Trabajó mucho."
+     ],
+     "why": "« El año pasado yo no hice nada en verano »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Pretérito indefinido",
+     "body": "-ar : -é, -aste, -ó, -amos, -asteis, -aron. -er/-ir : -í, -iste, -ió, -imos, -isteis, -ieron."
+    },
+    {
+     "title": "Irréguliers",
+     "body": "ir et ser : fui, fuiste, fue. estar : estuve. hacer : hice, hizo. tener : tuve."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Ayer ___ (comer) paella.",
+     "answer": "comí",
+     "wrong": [
+      "como",
+      "comía"
+     ],
+     "why": "Ayer : indefinido, yo : -í.",
+     "translation": "Hier, j'ai mangé une paella."
+    },
+    {
+     "question": "El verano pasado ___ (ir, nosotros) a Perú.",
+     "answer": "fuimos",
+     "wrong": [
+      "vamos",
+      "íbamos"
+     ],
+     "why": "Ir : fuimos.",
+     "translation": "L'été dernier, nous sommes allés au Pérou."
+    },
+    {
+     "question": "¿Qué ___ (hacer) tú el domingo?",
+     "answer": "hiciste",
+     "wrong": [
+      "haces",
+      "hizo"
+     ],
+     "why": "Hacer : hiciste.",
+     "translation": "Qu'as-tu fait dimanche ?"
+    },
+    {
+     "question": "Ella ___ (estar) en Roma en 2020.",
+     "answer": "estuvo",
+     "wrong": [
+      "estaba",
+      "está"
+     ],
+     "why": "Estar : estuvo.",
+     "translation": "Elle était à Rome en 2020."
+    },
+    {
+     "question": "Ellos ___ (viajar) mucho el año pasado.",
+     "answer": "viajaron",
+     "wrong": [
+      "viajan",
+      "viajaban"
+     ],
+     "why": "-ar, ellos : -aron.",
+     "translation": "Ils ont beaucoup voyagé l'an dernier."
+    }
+   ]
+  },
+  {
+   "id": "u09",
+   "number": 9,
+   "titleKo": "¿Qué te pasa?",
+   "titleFr": "Qu'est-ce qui t'arrive ?",
+   "level": 2,
+   "grammar": "doler · tener que · conseils",
+   "situation": "Laura se sent mal ; son colocataire Javier s'inquiète.",
+   "lines": [
+    {
+     "speaker": "Javier",
+     "ko": "Laura, tienes mala cara. ¿Qué te pasa?",
+     "fr": "Laura, tu as mauvaise mine. Qu'est-ce qui t'arrive ?"
+    },
+    {
+     "speaker": "Laura",
+     "ko": "Me duele mucho la cabeza y estoy muy cansada.",
+     "fr": "J'ai très mal à la tête et je suis très fatiguée."
+    },
+    {
+     "speaker": "Javier",
+     "ko": "¿Tienes fiebre?",
+     "fr": "Tu as de la fièvre ?"
+    },
+    {
+     "speaker": "Laura",
+     "ko": "Creo que sí. Y también me duelen los ojos.",
+     "fr": "Je crois que oui. Et j'ai aussi mal aux yeux."
+    },
+    {
+     "speaker": "Javier",
+     "ko": "Tienes que descansar. ¿Por qué no vas al médico?",
+     "fr": "Tu dois te reposer. Pourquoi tu ne vas pas chez le médecin ?"
+    },
+    {
+     "speaker": "Laura",
+     "ko": "Mañana tengo una reunión importante.",
+     "fr": "Demain, j'ai une réunion importante."
+    },
+    {
+     "speaker": "Javier",
+     "ko": "Deberías llamar a tu jefa. La salud es lo primero.",
+     "fr": "Tu devrais appeler ta cheffe. La santé passe avant tout."
+    },
+    {
+     "speaker": "Laura",
+     "ko": "Tienes razón. Voy a pedir cita para esta tarde.",
+     "fr": "Tu as raison. Je vais prendre rendez-vous pour cet après-midi."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Qué le duele a Laura?",
+     "answer": "La cabeza y los ojos.",
+     "wrong": [
+      "La garganta.",
+      "El estómago."
+     ],
+     "why": "« Me duele mucho la cabeza » puis « me duelen los ojos »."
+    },
+    {
+     "question": "¿Qué le aconseja Javier primero?",
+     "answer": "Descansar e ir al médico.",
+     "wrong": [
+      "Ir a la reunión.",
+      "Tomar un café."
+     ],
+     "why": "« Tienes que descansar. ¿Por qué no vas al médico? »."
+    },
+    {
+     "question": "¿Por qué no quiere ir al médico Laura?",
+     "answer": "Tiene una reunión importante.",
+     "wrong": [
+      "No tiene dinero.",
+      "No le gustan los médicos."
+     ],
+     "why": "« Mañana tengo una reunión importante »."
+    },
+    {
+     "question": "¿Qué va a hacer Laura al final?",
+     "answer": "Pedir cita para esta tarde.",
+     "wrong": [
+      "Ir a trabajar.",
+      "Dormir todo el día."
+     ],
+     "why": "« Voy a pedir cita para esta tarde »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Doler",
+     "body": "Comme gustar : me duele la cabeza (singulier), me duelen los pies (pluriel). Pas de possessif : la cabeza, pas « mi cabeza »."
+    },
+    {
+     "title": "Conseiller",
+     "body": "Tener que + infinitif (obligation), deberías + infinitif (conseil), ¿por qué no…? (suggestion)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Me ___ la espalda.",
+     "answer": "duele",
+     "wrong": [
+      "duelen",
+      "dolor"
+     ],
+     "why": "La espalda : singulier.",
+     "translation": "J'ai mal au dos."
+    },
+    {
+     "question": "Le ___ los pies.",
+     "answer": "duelen",
+     "wrong": [
+      "duele",
+      "dolen"
+     ],
+     "why": "Los pies : pluriel.",
+     "translation": "Il a mal aux pieds."
+    },
+    {
+     "question": "Tienes ___ descansar.",
+     "answer": "que",
+     "wrong": [
+      "de",
+      "a"
+     ],
+     "why": "Tener que + infinitif.",
+     "translation": "Tu dois te reposer."
+    },
+    {
+     "question": "___ ir al médico.",
+     "answer": "Deberías",
+     "wrong": [
+      "Debes de",
+      "Deberías de"
+     ],
+     "why": "Conseil : deberías + infinitif.",
+     "translation": "Tu devrais aller chez le médecin."
+    },
+    {
+     "question": "Me duele ___ cabeza.",
+     "answer": "la",
+     "wrong": [
+      "mi",
+      "su"
+     ],
+     "why": "Article, pas possessif.",
+     "translation": "J'ai mal à la tête."
+    }
+   ]
+  },
+  {
+   "id": "u10",
+   "number": 10,
+   "titleKo": "Antes y ahora",
+   "titleFr": "Avant et maintenant",
+   "level": 2,
+   "grammar": "imparfait · habitudes passées",
+   "situation": "Isabel montre à sa petite-fille Emma le village de son enfance.",
+   "lines": [
+    {
+     "speaker": "Emma",
+     "ko": "Abuela, ¿tú vivías aquí cuando eras pequeña?",
+     "fr": "Mamie, tu habitais ici quand tu étais petite ?"
+    },
+    {
+     "speaker": "Isabel",
+     "ko": "Sí, vivía en esa casa blanca, al lado de la iglesia.",
+     "fr": "Oui, j'habitais dans cette maison blanche, à côté de l'église."
+    },
+    {
+     "speaker": "Emma",
+     "ko": "¿Y cómo era el pueblo?",
+     "fr": "Et comment était le village ?"
+    },
+    {
+     "speaker": "Isabel",
+     "ko": "Era muy tranquilo. No había coches y todos nos conocíamos.",
+     "fr": "Il était très calme. Il n'y avait pas de voitures et tout le monde se connaissait."
+    },
+    {
+     "speaker": "Emma",
+     "ko": "¿Ibas al colegio aquí?",
+     "fr": "Tu allais à l'école ici ?"
+    },
+    {
+     "speaker": "Isabel",
+     "ko": "Sí, íbamos andando. Después de clase jugábamos en la plaza.",
+     "fr": "Oui, nous y allions à pied. Après la classe, nous jouions sur la place."
+    },
+    {
+     "speaker": "Emma",
+     "ko": "¿Teníais televisión?",
+     "fr": "Vous aviez la télévision ?"
+    },
+    {
+     "speaker": "Isabel",
+     "ko": "No, escuchábamos la radio por la noche. Ahora todo es muy diferente.",
+     "fr": "Non, nous écoutions la radio le soir. Maintenant, tout est très différent."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Dónde vivía Isabel?",
+     "answer": "En una casa blanca al lado de la iglesia.",
+     "wrong": [
+      "En una casa en la plaza.",
+      "En la ciudad."
+     ],
+     "why": "« Vivía en esa casa blanca, al lado de la iglesia »."
+    },
+    {
+     "question": "¿Cómo era el pueblo?",
+     "answer": "Muy tranquilo.",
+     "wrong": [
+      "Muy grande.",
+      "Muy ruidoso."
+     ],
+     "why": "« Era muy tranquilo »."
+    },
+    {
+     "question": "¿Dónde jugaban los niños?",
+     "answer": "En la plaza.",
+     "wrong": [
+      "En el colegio.",
+      "En casa."
+     ],
+     "why": "« Jugábamos en la plaza »."
+    },
+    {
+     "question": "¿Qué hacían por la noche?",
+     "answer": "Escuchaban la radio.",
+     "wrong": [
+      "Veían la televisión.",
+      "Iban al cine."
+     ],
+     "why": "« Escuchábamos la radio por la noche »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "L'imparfait",
+     "body": "-ar : -aba, -abas, -aba, -ábamos, -abais, -aban. -er/-ir : -ía, -ías, -ía, -íamos, -íais, -ían."
+    },
+    {
+     "title": "Trois irréguliers",
+     "body": "ser : era. ir : iba. ver : veía. Et « había » = il y avait."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Cuando era niño, ___ (jugar) en la calle.",
+     "answer": "jugaba",
+     "wrong": [
+      "jugué",
+      "juego"
+     ],
+     "why": "Habitude passée : imparfait.",
+     "translation": "Quand j'étais enfant, je jouais dans la rue."
+    },
+    {
+     "question": "Antes no ___ coches en el pueblo.",
+     "answer": "había",
+     "wrong": [
+      "hubo",
+      "hay"
+     ],
+     "why": "Description : había.",
+     "translation": "Avant, il n'y avait pas de voitures au village."
+    },
+    {
+     "question": "Nosotros ___ (ir) al colegio andando.",
+     "answer": "íbamos",
+     "wrong": [
+      "fuimos",
+      "vamos"
+     ],
+     "why": "Ir à l'imparfait : íbamos.",
+     "translation": "Nous allions à l'école à pied."
+    },
+    {
+     "question": "Mi abuela ___ (ser) muy guapa.",
+     "answer": "era",
+     "wrong": [
+      "fue",
+      "es"
+     ],
+     "why": "Description : era.",
+     "translation": "Ma grand-mère était très belle."
+    },
+    {
+     "question": "¿Qué ___ (hacer) vosotros los domingos?",
+     "answer": "hacíais",
+     "wrong": [
+      "hicisteis",
+      "hacéis"
+     ],
+     "why": "Habitude : imparfait.",
+     "translation": "Que faisiez-vous le dimanche ?"
+    }
+   ]
+  },
+  {
+   "id": "u11",
+   "number": 11,
+   "titleKo": "Busco piso",
+   "titleFr": "Je cherche un appartement",
+   "level": 2,
+   "grammar": "comparatifs · ser / estar · descriptions",
+   "situation": "Hugo hésite entre deux appartements et demande conseil à Ana.",
+   "lines": [
+    {
+     "speaker": "Hugo",
+     "ko": "Ana, ¿me ayudas? Tengo que elegir entre dos pisos.",
+     "fr": "Ana, tu m'aides ? Je dois choisir entre deux appartements."
+    },
+    {
+     "speaker": "Ana",
+     "ko": "Claro. ¿Cómo son?",
+     "fr": "Bien sûr. Comment sont-ils ?"
+    },
+    {
+     "speaker": "Hugo",
+     "ko": "El primero es más grande y más barato, pero está lejos del centro.",
+     "fr": "Le premier est plus grand et moins cher, mais il est loin du centre."
+    },
+    {
+     "speaker": "Ana",
+     "ko": "¿Y el segundo?",
+     "fr": "Et le deuxième ?"
+    },
+    {
+     "speaker": "Hugo",
+     "ko": "Es más pequeño que el primero, pero está al lado del metro y tiene una terraza.",
+     "fr": "Il est plus petit que le premier, mais il est à côté du métro et il a une terrasse."
+    },
+    {
+     "speaker": "Ana",
+     "ko": "¿Cuánto cuesta cada uno?",
+     "fr": "Combien coûte chacun ?"
+    },
+    {
+     "speaker": "Hugo",
+     "ko": "El primero, seiscientos euros. El segundo, setecientos.",
+     "fr": "Le premier, six cents euros. Le deuxième, sept cents."
+    },
+    {
+     "speaker": "Ana",
+     "ko": "Yo elegiría el segundo. Vas a ahorrar mucho tiempo en transporte.",
+     "fr": "Moi, je choisirais le deuxième. Tu vas gagner beaucoup de temps de transport."
+    },
+    {
+     "speaker": "Hugo",
+     "ko": "Tienes razón. El tiempo es tan importante como el dinero.",
+     "fr": "Tu as raison. Le temps est aussi important que l'argent."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Cómo es el primer piso?",
+     "answer": "Más grande y más barato.",
+     "wrong": [
+      "Más pequeño.",
+      "Más caro."
+     ],
+     "why": "« Es más grande y más barato »."
+    },
+    {
+     "question": "¿Qué tiene el segundo piso?",
+     "answer": "Una terraza.",
+     "wrong": [
+      "Un jardín.",
+      "Un garaje."
+     ],
+     "why": "« Tiene una terraza »."
+    },
+    {
+     "question": "¿Cuánto cuesta el segundo piso?",
+     "answer": "Setecientos euros.",
+     "wrong": [
+      "Seiscientos euros.",
+      "Ochocientos euros."
+     ],
+     "why": "« El segundo, setecientos »."
+    },
+    {
+     "question": "¿Qué piso elegiría Ana?",
+     "answer": "El segundo.",
+     "wrong": [
+      "El primero.",
+      "Ninguno."
+     ],
+     "why": "« Yo elegiría el segundo »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Comparer",
+     "body": "más… que (plus), menos… que (moins), tan… como (aussi). Mejor, peor, mayor, menor sont irréguliers."
+    },
+    {
+     "title": "Ser ou estar pour décrire",
+     "body": "Ser pour les caractéristiques (es grande, es caro). Estar pour la situation (está lejos, está al lado del metro)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Este piso es ___ grande que el otro.",
+     "answer": "más",
+     "wrong": [
+      "tan",
+      "mucho"
+     ],
+     "why": "Plus… que : más… que.",
+     "translation": "Cet appartement est plus grand que l'autre."
+    },
+    {
+     "question": "Madrid es tan bonito ___ Sevilla.",
+     "answer": "como",
+     "wrong": [
+      "que",
+      "de"
+     ],
+     "why": "Tan… como.",
+     "translation": "Madrid est aussi jolie que Séville."
+    },
+    {
+     "question": "El piso ___ cerca del metro.",
+     "answer": "está",
+     "wrong": [
+      "es",
+      "hay"
+     ],
+     "why": "Situation : estar.",
+     "translation": "L'appartement est près du métro."
+    },
+    {
+     "question": "Mi habitación es ___ que la tuya.",
+     "answer": "mejor",
+     "wrong": [
+      "más buena",
+      "más mejor"
+     ],
+     "why": "Bueno → mejor.",
+     "translation": "Ma chambre est meilleure que la tienne."
+    },
+    {
+     "question": "La cocina ___ muy moderna.",
+     "answer": "es",
+     "wrong": [
+      "está",
+      "hay"
+     ],
+     "why": "Caractéristique : ser.",
+     "translation": "La cuisine est très moderne."
+    }
+   ]
+  },
+  {
+   "id": "u12",
+   "number": 12,
+   "titleKo": "¿Has estado alguna vez…?",
+   "titleFr": "Es-tu déjà allé… ?",
+   "level": 2,
+   "grammar": "pretérito perfecto · expériences · ya / todavía no",
+   "situation": "Dans une auberge de jeunesse de Séville, deux voyageurs font connaissance.",
+   "lines": [
+    {
+     "speaker": "Andrea",
+     "ko": "¿Es tu primera vez en Sevilla?",
+     "fr": "C'est ta première fois à Séville ?"
+    },
+    {
+     "speaker": "Tom",
+     "ko": "Sí, he llegado esta mañana. ¿Y tú?",
+     "fr": "Oui, je suis arrivé ce matin. Et toi ?"
+    },
+    {
+     "speaker": "Andrea",
+     "ko": "Yo he estado aquí tres veces. Me encanta esta ciudad.",
+     "fr": "Moi, je suis venue ici trois fois. J'adore cette ville."
+    },
+    {
+     "speaker": "Tom",
+     "ko": "¿Has visitado ya la catedral?",
+     "fr": "Tu as déjà visité la cathédrale ?"
+    },
+    {
+     "speaker": "Andrea",
+     "ko": "Sí, claro. Y he subido a la Giralda. Las vistas son preciosas.",
+     "fr": "Oui, bien sûr. Et je suis montée à la Giralda. La vue est magnifique."
+    },
+    {
+     "speaker": "Tom",
+     "ko": "Yo todavía no he visto nada. ¿Has probado el salmorejo?",
+     "fr": "Moi, je n'ai encore rien vu. Tu as goûté le salmorejo ?"
+    },
+    {
+     "speaker": "Andrea",
+     "ko": "¡Nunca lo he probado! ¿Qué es?",
+     "fr": "Je n'en ai jamais goûté ! Qu'est-ce que c'est ?"
+    },
+    {
+     "speaker": "Tom",
+     "ko": "Es una crema fría de tomate. Hoy he comido uno buenísimo.",
+     "fr": "C'est une crème froide de tomate. Aujourd'hui, j'en ai mangé un excellent."
+    },
+    {
+     "speaker": "Andrea",
+     "ko": "Pues esta noche lo pruebo. ¿Vienes conmigo a la catedral mañana?",
+     "fr": "Eh bien, ce soir je le goûte. Tu viens avec moi à la cathédrale demain ?"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "¿Cuándo ha llegado Tom a Sevilla?",
+     "answer": "Esta mañana.",
+     "wrong": [
+      "Ayer.",
+      "Hace una semana."
+     ],
+     "why": "« He llegado esta mañana »."
+    },
+    {
+     "question": "¿Cuántas veces ha estado Andrea en Sevilla?",
+     "answer": "Tres veces.",
+     "wrong": [
+      "Nunca.",
+      "Una vez."
+     ],
+     "why": "« He estado aquí tres veces »."
+    },
+    {
+     "question": "¿Qué no ha probado nunca Andrea?",
+     "answer": "El salmorejo.",
+     "wrong": [
+      "La paella.",
+      "El gazpacho."
+     ],
+     "why": "« ¡Nunca lo he probado! »."
+    },
+    {
+     "question": "¿Qué es el salmorejo?",
+     "answer": "Una crema fría de tomate.",
+     "wrong": [
+      "Un postre.",
+      "Una bebida."
+     ],
+     "why": "« Es una crema fría de tomate »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Pretérito perfecto",
+     "body": "Haber au présent (he, has, ha, hemos, habéis, han) + participe (-ado, -ido). Pour une expérience ou un passé lié à aujourd'hui."
+    },
+    {
+     "title": "Ya, todavía no, nunca, alguna vez",
+     "body": "¿Has visitado ya…? Todavía no he… Nunca he… ¿Has estado alguna vez…? Rien entre haber et le participe."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Esta mañana ___ (llegar) a Sevilla.",
+     "answer": "he llegado",
+     "wrong": [
+      "llegué",
+      "llegaba"
+     ],
+     "why": "Esta mañana : pretérito perfecto.",
+     "translation": "Ce matin, je suis arrivé à Séville."
+    },
+    {
+     "question": "¿___ estado alguna vez en Cuba?",
+     "answer": "Has",
+     "wrong": [
+      "Ha",
+      "Estás"
+     ],
+     "why": "Tú : has.",
+     "translation": "Es-tu déjà allé à Cuba ?"
+    },
+    {
+     "question": "Nosotros todavía no ___ comido.",
+     "answer": "hemos",
+     "wrong": [
+      "habemos",
+      "han"
+     ],
+     "why": "Nosotros : hemos.",
+     "translation": "Nous n'avons pas encore mangé."
+    },
+    {
+     "question": "Nunca he ___ (ver) el mar.",
+     "answer": "visto",
+     "wrong": [
+      "veído",
+      "vido"
+     ],
+     "why": "Participe irrégulier : visto.",
+     "translation": "Je n'ai jamais vu la mer."
+    },
+    {
+     "question": "¿Qué has ___ (hacer) hoy?",
+     "answer": "hecho",
+     "wrong": [
+      "hacido",
+      "hizo"
+     ],
+     "why": "Participe irrégulier : hecho.",
+     "translation": "Qu'as-tu fait aujourd'hui ?"
+    }
+   ]
+  }
+ ]
+}
