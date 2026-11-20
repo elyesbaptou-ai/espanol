@@ -154,6 +154,106 @@
      "why": "Pas d'article devant un métier après ser.",
      "translation": "Elle est professeure."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u01_v01",
+     "hangul": "hola",
+     "romanization": "O-la",
+     "french": "salut, bonjour",
+     "level": 1
+    },
+    {
+     "id": "u01_v02",
+     "hangul": "me llamo",
+     "romanization": "mé YA-mo",
+     "french": "je m'appelle",
+     "level": 1
+    },
+    {
+     "id": "u01_v03",
+     "hangul": "¿de dónde eres?",
+     "romanization": "dé DONN-dé É-rès ?",
+     "french": "d'où viens-tu ?",
+     "level": 1
+    },
+    {
+     "id": "u01_v04",
+     "hangul": "soy francesa",
+     "romanization": "soï frann-THÉ-sa",
+     "french": "je suis française",
+     "level": 1
+    },
+    {
+     "id": "u01_v05",
+     "hangul": "el profesor",
+     "romanization": "èl pro-fé-SOR",
+     "french": "le professeur",
+     "level": 1
+    },
+    {
+     "id": "u01_v06",
+     "hangul": "la profesora",
+     "romanization": "la pro-fé-SO-ra",
+     "french": "la professeure",
+     "level": 1
+    },
+    {
+     "id": "u01_v07",
+     "hangul": "el estudiante",
+     "romanization": "èl ès-tou-DIANN-té",
+     "french": "l'étudiant",
+     "level": 1
+    },
+    {
+     "id": "u01_v08",
+     "hangul": "el cocinero",
+     "romanization": "èl ko-thi-NÉ-ro",
+     "french": "le cuisinier",
+     "level": 1
+    },
+    {
+     "id": "u01_v09",
+     "hangul": "la enfermera",
+     "romanization": "la ènn-fèr-MÉ-ra",
+     "french": "l'infirmière",
+     "level": 1
+    },
+    {
+     "id": "u01_v10",
+     "hangul": "encantado",
+     "romanization": "ènn-kann-TA-do",
+     "french": "enchanté",
+     "level": 1
+    },
+    {
+     "id": "u01_v11",
+     "hangul": "¿y tú?",
+     "romanization": "i TOU ?",
+     "french": "et toi ?",
+     "level": 1
+    },
+    {
+     "id": "u01_v12",
+     "hangul": "muy bien",
+     "romanization": "mouï biènn",
+     "french": "très bien",
+     "level": 1
+    },
+    {
+     "id": "u01_v13",
+     "hangul": "bienvenidos",
+     "romanization": "biènn-bé-NI-dos",
+     "french": "bienvenue (à tous)",
+     "level": 1
+    },
+    {
+     "id": "u01_v14",
+     "hangul": "la escuela de idiomas",
+     "romanization": "la ès-KOUÉ-la dé i-DIO-mas",
+     "french": "l'école de langues",
+     "level": 1
+    }
    ]
   },
   {
@@ -310,6 +410,106 @@
      "why": "L'âge avec tener.",
      "translation": "Ma grand-mère a quatre-vingts ans."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u02_v01",
+     "hangul": "la familia",
+     "romanization": "la fa-MI-lia",
+     "french": "la famille",
+     "level": 1
+    },
+    {
+     "id": "u02_v02",
+     "hangul": "el hermano",
+     "romanization": "èl èr-MA-no",
+     "french": "le frère",
+     "level": 1
+    },
+    {
+     "id": "u02_v03",
+     "hangul": "la hermana",
+     "romanization": "la èr-MA-na",
+     "french": "la sœur",
+     "level": 1
+    },
+    {
+     "id": "u02_v04",
+     "hangul": "la madre",
+     "romanization": "la MA-dré",
+     "french": "la mère",
+     "level": 1
+    },
+    {
+     "id": "u02_v05",
+     "hangul": "el padre",
+     "romanization": "èl PA-dré",
+     "french": "le père",
+     "level": 1
+    },
+    {
+     "id": "u02_v06",
+     "hangul": "la hermana mayor",
+     "romanization": "la èr-MA-na ma-YOR",
+     "french": "la sœur aînée",
+     "level": 1
+    },
+    {
+     "id": "u02_v07",
+     "hangul": "hija única",
+     "romanization": "I-kha OU-ni-ka",
+     "french": "fille unique",
+     "level": 1
+    },
+    {
+     "id": "u02_v08",
+     "hangul": "el novio",
+     "romanization": "èl NO-bio",
+     "french": "le petit ami",
+     "level": 1
+    },
+    {
+     "id": "u02_v09",
+     "hangul": "la mascota",
+     "romanization": "la mas-KO-ta",
+     "french": "l'animal de compagnie",
+     "level": 1
+    },
+    {
+     "id": "u02_v10",
+     "hangul": "el gato",
+     "romanization": "èl GA-to",
+     "french": "le chat",
+     "level": 1
+    },
+    {
+     "id": "u02_v11",
+     "hangul": "tener diecinueve años",
+     "romanization": "té-NÈR dié-thi-NOUÉ-bé A-gnos",
+     "french": "avoir dix-neuf ans",
+     "level": 1
+    },
+    {
+     "id": "u02_v12",
+     "hangul": "¿quién es?",
+     "romanization": "KIÈNN ès ?",
+     "french": "qui est-ce ?",
+     "level": 1
+    },
+    {
+     "id": "u02_v13",
+     "hangul": "la señora",
+     "romanization": "la sé-GNO-ra",
+     "french": "la dame",
+     "level": 1
+    },
+    {
+     "id": "u02_v14",
+     "hangul": "la foto",
+     "romanization": "la FO-to",
+     "french": "la photo",
+     "level": 1
+    }
    ]
   },
   {
@@ -461,6 +661,106 @@
      "why": "Hay ne change pas au pluriel.",
      "translation": "Sur la place, il y a beaucoup de bars."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u03_v01",
+     "hangul": "la estación de tren",
+     "romanization": "la ès-ta-THIONN dé trènn",
+     "french": "la gare",
+     "level": 1
+    },
+    {
+     "id": "u03_v02",
+     "hangul": "cerca de aquí",
+     "romanization": "THÈR-ka dé a-KI",
+     "french": "près d'ici",
+     "level": 1
+    },
+    {
+     "id": "u03_v03",
+     "hangul": "lejos",
+     "romanization": "LÉ-khos",
+     "french": "loin",
+     "level": 1
+    },
+    {
+     "id": "u03_v04",
+     "hangul": "la avenida",
+     "romanization": "la a-bé-NI-da",
+     "french": "l'avenue",
+     "level": 1
+    },
+    {
+     "id": "u03_v05",
+     "hangul": "siga recto",
+     "romanization": "SI-ga RRÈTH-to",
+     "french": "continuez tout droit",
+     "level": 1
+    },
+    {
+     "id": "u03_v06",
+     "hangul": "gire a la izquierda",
+     "romanization": "KHI-ré a la ith-KIÈR-da",
+     "french": "tournez à gauche",
+     "level": 1
+    },
+    {
+     "id": "u03_v07",
+     "hangul": "a la derecha",
+     "romanization": "a la dé-RÉ-tcha",
+     "french": "à droite",
+     "level": 1
+    },
+    {
+     "id": "u03_v08",
+     "hangul": "después",
+     "romanization": "dès-POUÈS",
+     "french": "ensuite",
+     "level": 1
+    },
+    {
+     "id": "u03_v09",
+     "hangul": "el banco",
+     "romanization": "èl BANN-ko",
+     "french": "la banque",
+     "level": 1
+    },
+    {
+     "id": "u03_v10",
+     "hangul": "la farmacia",
+     "romanization": "la far-MA-thia",
+     "french": "la pharmacie",
+     "level": 1
+    },
+    {
+     "id": "u03_v11",
+     "hangul": "al lado de",
+     "romanization": "al LA-do dé",
+     "french": "à côté de",
+     "level": 1
+    },
+    {
+     "id": "u03_v12",
+     "hangul": "enfrente de",
+     "romanization": "ènn-FRÈNN-té dé",
+     "french": "en face de",
+     "level": 1
+    },
+    {
+     "id": "u03_v13",
+     "hangul": "el parque",
+     "romanization": "èl PAR-ké",
+     "french": "le parc",
+     "level": 1
+    },
+    {
+     "id": "u03_v14",
+     "hangul": "¿hay un banco?",
+     "romanization": "aï ounn BANN-ko ?",
+     "french": "y a-t-il une banque ?",
+     "level": 1
+    }
    ]
   },
   {
@@ -611,6 +911,106 @@
      ],
      "why": "Et demie : y media.",
      "translation": "Il est trois heures et demie."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u04_v01",
+     "hangul": "empezar a trabajar",
+     "romanization": "èmm-pé-THAR a tra-ba-KHAR",
+     "french": "commencer à travailler",
+     "level": 1
+    },
+    {
+     "id": "u04_v02",
+     "hangul": "levantarse",
+     "romanization": "lé-bann-TAR-sé",
+     "french": "se lever",
+     "level": 1
+    },
+    {
+     "id": "u04_v03",
+     "hangul": "desayunar",
+     "romanization": "dé-sa-you-NAR",
+     "french": "prendre le petit-déjeuner",
+     "level": 1
+    },
+    {
+     "id": "u04_v04",
+     "hangul": "comer",
+     "romanization": "ko-MÈR",
+     "french": "déjeuner, manger",
+     "level": 1
+    },
+    {
+     "id": "u04_v05",
+     "hangul": "cenar",
+     "romanization": "thé-NAR",
+     "french": "dîner",
+     "level": 1
+    },
+    {
+     "id": "u04_v06",
+     "hangul": "acostarse",
+     "romanization": "a-kos-TAR-sé",
+     "french": "se coucher",
+     "level": 1
+    },
+    {
+     "id": "u04_v07",
+     "hangul": "la oficina",
+     "romanization": "la o-fi-THI-na",
+     "french": "le bureau",
+     "level": 1
+    },
+    {
+     "id": "u04_v08",
+     "hangul": "y media",
+     "romanization": "i MÉ-dia",
+     "french": "et demie",
+     "level": 1
+    },
+    {
+     "id": "u04_v09",
+     "hangul": "la medianoche",
+     "romanization": "la mé-dia-NO-tché",
+     "french": "minuit",
+     "level": 1
+    },
+    {
+     "id": "u04_v10",
+     "hangul": "normalmente",
+     "romanization": "nor-mal-MÈNN-té",
+     "french": "normalement",
+     "level": 1
+    },
+    {
+     "id": "u04_v11",
+     "hangul": "los fines de semana",
+     "romanization": "los FI-nès dé sé-MA-na",
+     "french": "le week-end",
+     "level": 1
+    },
+    {
+     "id": "u04_v12",
+     "hangul": "más tarde",
+     "romanization": "MAS TAR-dé",
+     "french": "plus tard",
+     "level": 1
+    },
+    {
+     "id": "u04_v13",
+     "hangul": "¡qué pronto!",
+     "romanization": "KÉ PRONN-to !",
+     "french": "que c'est tôt !",
+     "level": 1
+    },
+    {
+     "id": "u04_v14",
+     "hangul": "la noche",
+     "romanization": "la NO-tché",
+     "french": "la nuit, le soir",
+     "level": 1
     }
    ]
   },
@@ -768,6 +1168,106 @@
      "why": "Dizaine + y + unité.",
      "translation": "Ça fait cinquante-cinq euros."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u05_v01",
+     "hangul": "el mercado",
+     "romanization": "èl mèr-KA-do",
+     "french": "le marché",
+     "level": 1
+    },
+    {
+     "id": "u05_v02",
+     "hangul": "¿qué le pongo?",
+     "romanization": "KÉ lé PONN-go ?",
+     "french": "que vous sers-je ?",
+     "level": 1
+    },
+    {
+     "id": "u05_v03",
+     "hangul": "un kilo de",
+     "romanization": "ounn KI-lo dé",
+     "french": "un kilo de",
+     "level": 1
+    },
+    {
+     "id": "u05_v04",
+     "hangul": "medio kilo",
+     "romanization": "MÉ-dio KI-lo",
+     "french": "un demi-kilo",
+     "level": 1
+    },
+    {
+     "id": "u05_v05",
+     "hangul": "los tomates",
+     "romanization": "los to-MA-tès",
+     "french": "les tomates",
+     "level": 1
+    },
+    {
+     "id": "u05_v06",
+     "hangul": "las fresas",
+     "romanization": "las FRÉ-sas",
+     "french": "les fraises",
+     "level": 1
+    },
+    {
+     "id": "u05_v07",
+     "hangul": "las naranjas",
+     "romanization": "las na-RANN-khas",
+     "french": "les oranges",
+     "level": 1
+    },
+    {
+     "id": "u05_v08",
+     "hangul": "¿a cuánto están?",
+     "romanization": "a KOUANN-to ès-TANN ?",
+     "french": "à combien sont-ils ?",
+     "level": 1
+    },
+    {
+     "id": "u05_v09",
+     "hangul": "dulce",
+     "romanization": "DOUL-thé",
+     "french": "sucré",
+     "level": 1
+    },
+    {
+     "id": "u05_v10",
+     "hangul": "¿algo más?",
+     "romanization": "AL-go MAS ?",
+     "french": "autre chose ?",
+     "level": 1
+    },
+    {
+     "id": "u05_v11",
+     "hangul": "nada más",
+     "romanization": "NA-da MAS",
+     "french": "rien d'autre",
+     "level": 1
+    },
+    {
+     "id": "u05_v12",
+     "hangul": "¿cuánto es todo?",
+     "romanization": "KOUANN-to ès TO-do ?",
+     "french": "ça fait combien en tout ?",
+     "level": 1
+    },
+    {
+     "id": "u05_v13",
+     "hangul": "aquí tiene",
+     "romanization": "a-KI TIÉ-né",
+     "french": "voici",
+     "level": 1
+    },
+    {
+     "id": "u05_v14",
+     "hangul": "la frutera",
+     "romanization": "la frou-TÉ-ra",
+     "french": "la marchande de fruits",
+     "level": 1
+    }
    ]
   },
   {
@@ -913,6 +1413,106 @@
      ],
      "why": "À nous : nos.",
      "translation": "Nous aimons voyager."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u06_v01",
+     "hangul": "el tiempo libre",
+     "romanization": "èl TIÈMM-po LI-bré",
+     "french": "le temps libre",
+     "level": 1
+    },
+    {
+     "id": "u06_v02",
+     "hangul": "me gusta",
+     "romanization": "mé GOUS-ta",
+     "french": "j'aime",
+     "level": 1
+    },
+    {
+     "id": "u06_v03",
+     "hangul": "el deporte",
+     "romanization": "èl dé-POR-té",
+     "french": "le sport",
+     "level": 1
+    },
+    {
+     "id": "u06_v04",
+     "hangul": "el fútbol",
+     "romanization": "èl FOUT-bol",
+     "french": "le football",
+     "level": 1
+    },
+    {
+     "id": "u06_v05",
+     "hangul": "preferir",
+     "romanization": "pré-fé-RIR",
+     "french": "préférer",
+     "level": 1
+    },
+    {
+     "id": "u06_v06",
+     "hangul": "nadar",
+     "romanization": "na-DAR",
+     "french": "nager",
+     "level": 1
+    },
+    {
+     "id": "u06_v07",
+     "hangul": "la música",
+     "romanization": "la MOU-si-ka",
+     "french": "la musique",
+     "level": 1
+    },
+    {
+     "id": "u06_v08",
+     "hangul": "me encanta",
+     "romanization": "mé ènn-KANN-ta",
+     "french": "j'adore",
+     "level": 1
+    },
+    {
+     "id": "u06_v09",
+     "hangul": "sobre todo",
+     "romanization": "SO-bré TO-do",
+     "french": "surtout",
+     "level": 1
+    },
+    {
+     "id": "u06_v10",
+     "hangul": "a mí también",
+     "romanization": "a MI tamm-BIÈNN",
+     "french": "moi aussi",
+     "level": 1
+    },
+    {
+     "id": "u06_v11",
+     "hangul": "a mí tampoco",
+     "romanization": "a MI tamm-PO-ko",
+     "french": "moi non plus",
+     "level": 1
+    },
+    {
+     "id": "u06_v12",
+     "hangul": "el concierto",
+     "romanization": "èl konn-THIÈR-to",
+     "french": "le concert",
+     "level": 1
+    },
+    {
+     "id": "u06_v13",
+     "hangul": "la gente",
+     "romanization": "la KHÈNN-té",
+     "french": "les gens",
+     "level": 1
+    },
+    {
+     "id": "u06_v14",
+     "hangul": "escuchar",
+     "romanization": "ès-kou-TCHAR",
+     "french": "écouter",
+     "level": 1
     }
    ]
   },
@@ -1064,6 +1664,106 @@
      ],
      "why": "Proposer : nosotros.",
      "translation": "On se retrouve à huit heures sur la place ?"
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u07_v01",
+     "hangul": "el fin de semana",
+     "romanization": "èl finn dé sé-MA-na",
+     "french": "le week-end",
+     "level": 2
+    },
+    {
+     "id": "u07_v02",
+     "hangul": "que viene",
+     "romanization": "ké BIÉ-né",
+     "french": "prochain",
+     "level": 2
+    },
+    {
+     "id": "u07_v03",
+     "hangul": "voy a estudiar",
+     "romanization": "boï a ès-tou-DIAR",
+     "french": "je vais étudier",
+     "level": 2
+    },
+    {
+     "id": "u07_v04",
+     "hangul": "visitar",
+     "romanization": "bi-si-TAR",
+     "french": "rendre visite, visiter",
+     "level": 2
+    },
+    {
+     "id": "u07_v05",
+     "hangul": "los abuelos",
+     "romanization": "los a-BOUÉ-los",
+     "french": "les grands-parents",
+     "level": 2
+    },
+    {
+     "id": "u07_v06",
+     "hangul": "el examen",
+     "romanization": "èl é-KSA-mènn",
+     "french": "l'examen",
+     "level": 2
+    },
+    {
+     "id": "u07_v07",
+     "hangul": "la playa",
+     "romanization": "la PLA-ya",
+     "french": "la plage",
+     "level": 2
+    },
+    {
+     "id": "u07_v08",
+     "hangul": "¡buena idea!",
+     "romanization": "BOUÉ-na i-DÉ-a !",
+     "french": "bonne idée !",
+     "level": 2
+    },
+    {
+     "id": "u07_v09",
+     "hangul": "hacer sol",
+     "romanization": "a-THÈR sol",
+     "french": "faire soleil",
+     "level": 2
+    },
+    {
+     "id": "u07_v10",
+     "hangul": "quedar",
+     "romanization": "ké-DAR",
+     "french": "se donner rendez-vous",
+     "level": 2
+    },
+    {
+     "id": "u07_v11",
+     "hangul": "mejor",
+     "romanization": "mé-KHOR",
+     "french": "mieux, plutôt",
+     "level": 2
+    },
+    {
+     "id": "u07_v12",
+     "hangul": "dormir",
+     "romanization": "dor-MIR",
+     "french": "dormir",
+     "level": 2
+    },
+    {
+     "id": "u07_v13",
+     "hangul": "vale",
+     "romanization": "BA-lé",
+     "french": "d'accord",
+     "level": 2
+    },
+    {
+     "id": "u07_v14",
+     "hangul": "llevar la comida",
+     "romanization": "yé-BAR la ko-MI-da",
+     "french": "apporter le repas",
+     "level": 2
     }
    ]
   },
@@ -1221,6 +1921,106 @@
      "why": "-ar, ellos : -aron.",
      "translation": "Ils ont beaucoup voyagé l'an dernier."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u08_v01",
+     "hangul": "el viaje",
+     "romanization": "èl BIA-khé",
+     "french": "le voyage",
+     "level": 2
+    },
+    {
+     "id": "u08_v02",
+     "hangul": "¿qué tal el viaje?",
+     "romanization": "KÉ tal èl BIA-khé ?",
+     "french": "comment s'est passé le voyage ?",
+     "level": 2
+    },
+    {
+     "id": "u08_v03",
+     "hangul": "las vacaciones",
+     "romanization": "las ba-ka-THIO-nès",
+     "french": "les vacances",
+     "level": 2
+    },
+    {
+     "id": "u08_v04",
+     "hangul": "increíble",
+     "romanization": "inn-kré-I-blé",
+     "french": "incroyable",
+     "level": 2
+    },
+    {
+     "id": "u08_v05",
+     "hangul": "estuve",
+     "romanization": "ès-TOU-bé",
+     "french": "j'ai été",
+     "level": 2
+    },
+    {
+     "id": "u08_v06",
+     "hangul": "la ciudad",
+     "romanization": "la thiou-DAD",
+     "french": "la ville",
+     "level": 2
+    },
+    {
+     "id": "u08_v07",
+     "hangul": "primero",
+     "romanization": "pri-MÉ-ro",
+     "french": "d'abord",
+     "level": 2
+    },
+    {
+     "id": "u08_v08",
+     "hangul": "viajar",
+     "romanization": "bia-KHAR",
+     "french": "voyager",
+     "level": 2
+    },
+    {
+     "id": "u08_v09",
+     "hangul": "la comida",
+     "romanization": "la ko-MI-da",
+     "french": "la nourriture",
+     "level": 2
+    },
+    {
+     "id": "u08_v10",
+     "hangul": "buenísimo",
+     "romanization": "boué-NI-si-mo",
+     "french": "délicieux",
+     "level": 2
+    },
+    {
+     "id": "u08_v11",
+     "hangul": "conocer",
+     "romanization": "ko-no-THÈR",
+     "french": "rencontrer, connaître",
+     "level": 2
+    },
+    {
+     "id": "u08_v12",
+     "hangul": "amable",
+     "romanization": "a-MA-blé",
+     "french": "aimable",
+     "level": 2
+    },
+    {
+     "id": "u08_v13",
+     "hangul": "¡qué envidia!",
+     "romanization": "KÉ ènn-BI-dia !",
+     "french": "je t'envie !",
+     "level": 2
+    },
+    {
+     "id": "u08_v14",
+     "hangul": "el año pasado",
+     "romanization": "èl A-gno pa-SA-do",
+     "french": "l'année dernière",
+     "level": 2
+    }
    ]
   },
   {
@@ -1372,6 +2172,106 @@
      "why": "Article, pas possessif.",
      "translation": "J'ai mal à la tête."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u09_v01",
+     "hangul": "¿qué te pasa?",
+     "romanization": "KÉ té PA-sa ?",
+     "french": "qu'est-ce qui t'arrive ?",
+     "level": 2
+    },
+    {
+     "id": "u09_v02",
+     "hangul": "tener mala cara",
+     "romanization": "té-NÈR MA-la KA-ra",
+     "french": "avoir mauvaise mine",
+     "level": 2
+    },
+    {
+     "id": "u09_v03",
+     "hangul": "me duele la cabeza",
+     "romanization": "mé DOUÉ-lé la ka-BÉ-tha",
+     "french": "j'ai mal à la tête",
+     "level": 2
+    },
+    {
+     "id": "u09_v04",
+     "hangul": "cansado",
+     "romanization": "kann-SA-do",
+     "french": "fatigué",
+     "level": 2
+    },
+    {
+     "id": "u09_v05",
+     "hangul": "la fiebre",
+     "romanization": "la FIÉ-bré",
+     "french": "la fièvre",
+     "level": 2
+    },
+    {
+     "id": "u09_v06",
+     "hangul": "los ojos",
+     "romanization": "los O-khos",
+     "french": "les yeux",
+     "level": 2
+    },
+    {
+     "id": "u09_v07",
+     "hangul": "tener que",
+     "romanization": "té-NÈR ké",
+     "french": "devoir",
+     "level": 2
+    },
+    {
+     "id": "u09_v08",
+     "hangul": "descansar",
+     "romanization": "dès-kann-SAR",
+     "french": "se reposer",
+     "level": 2
+    },
+    {
+     "id": "u09_v09",
+     "hangul": "el médico",
+     "romanization": "èl MÉ-di-ko",
+     "french": "le médecin",
+     "level": 2
+    },
+    {
+     "id": "u09_v10",
+     "hangul": "la reunión",
+     "romanization": "la rréou-NIONN",
+     "french": "la réunion",
+     "level": 2
+    },
+    {
+     "id": "u09_v11",
+     "hangul": "deberías",
+     "romanization": "dé-bé-RI-as",
+     "french": "tu devrais",
+     "level": 2
+    },
+    {
+     "id": "u09_v12",
+     "hangul": "la salud",
+     "romanization": "la sa-LOUD",
+     "french": "la santé",
+     "level": 2
+    },
+    {
+     "id": "u09_v13",
+     "hangul": "tener razón",
+     "romanization": "té-NÈR rra-THONN",
+     "french": "avoir raison",
+     "level": 2
+    },
+    {
+     "id": "u09_v14",
+     "hangul": "pedir cita",
+     "romanization": "pé-DIR THI-ta",
+     "french": "prendre rendez-vous",
+     "level": 2
+    }
    ]
   },
   {
@@ -1522,6 +2422,106 @@
      ],
      "why": "Habitude : imparfait.",
      "translation": "Que faisiez-vous le dimanche ?"
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u10_v01",
+     "hangul": "antes",
+     "romanization": "ANN-tès",
+     "french": "avant",
+     "level": 2
+    },
+    {
+     "id": "u10_v02",
+     "hangul": "ahora",
+     "romanization": "a-O-ra",
+     "french": "maintenant",
+     "level": 2
+    },
+    {
+     "id": "u10_v03",
+     "hangul": "la abuela",
+     "romanization": "la a-BOUÉ-la",
+     "french": "la grand-mère",
+     "level": 2
+    },
+    {
+     "id": "u10_v04",
+     "hangul": "cuando era pequeña",
+     "romanization": "KOUANN-do É-ra pé-KÉ-gna",
+     "french": "quand j'étais petite",
+     "level": 2
+    },
+    {
+     "id": "u10_v05",
+     "hangul": "vivía",
+     "romanization": "bi-BI-a",
+     "french": "je vivais",
+     "level": 2
+    },
+    {
+     "id": "u10_v06",
+     "hangul": "el pueblo",
+     "romanization": "èl POUÉ-blo",
+     "french": "le village",
+     "level": 2
+    },
+    {
+     "id": "u10_v07",
+     "hangul": "tranquilo",
+     "romanization": "trann-KI-lo",
+     "french": "calme",
+     "level": 2
+    },
+    {
+     "id": "u10_v08",
+     "hangul": "había",
+     "romanization": "a-BI-a",
+     "french": "il y avait",
+     "level": 2
+    },
+    {
+     "id": "u10_v09",
+     "hangul": "la iglesia",
+     "romanization": "la i-GLÉ-sia",
+     "french": "l'église",
+     "level": 2
+    },
+    {
+     "id": "u10_v10",
+     "hangul": "el colegio",
+     "romanization": "èl ko-LÉ-khio",
+     "french": "l'école",
+     "level": 2
+    },
+    {
+     "id": "u10_v11",
+     "hangul": "andando",
+     "romanization": "ann-DANN-do",
+     "french": "à pied",
+     "level": 2
+    },
+    {
+     "id": "u10_v12",
+     "hangul": "la plaza",
+     "romanization": "la PLA-tha",
+     "french": "la place",
+     "level": 2
+    },
+    {
+     "id": "u10_v13",
+     "hangul": "la radio",
+     "romanization": "la RRA-dio",
+     "french": "la radio",
+     "level": 2
+    },
+    {
+     "id": "u10_v14",
+     "hangul": "diferente",
+     "romanization": "di-fé-RÈNN-té",
+     "french": "différent",
+     "level": 2
     }
    ]
   },
@@ -1679,6 +2679,106 @@
      "why": "Caractéristique : ser.",
      "translation": "La cuisine est très moderne."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u11_v01",
+     "hangul": "buscar piso",
+     "romanization": "bous-KAR PI-so",
+     "french": "chercher un appartement",
+     "level": 2
+    },
+    {
+     "id": "u11_v02",
+     "hangul": "elegir",
+     "romanization": "é-lé-KHIR",
+     "french": "choisir",
+     "level": 2
+    },
+    {
+     "id": "u11_v03",
+     "hangul": "el piso",
+     "romanization": "èl PI-so",
+     "french": "l'appartement",
+     "level": 2
+    },
+    {
+     "id": "u11_v04",
+     "hangul": "más grande que",
+     "romanization": "MAS GRANN-dé ké",
+     "french": "plus grand que",
+     "level": 2
+    },
+    {
+     "id": "u11_v05",
+     "hangul": "más barato",
+     "romanization": "MAS ba-RA-to",
+     "french": "moins cher",
+     "level": 2
+    },
+    {
+     "id": "u11_v06",
+     "hangul": "más pequeño que",
+     "romanization": "MAS pé-KÉ-gno ké",
+     "french": "plus petit que",
+     "level": 2
+    },
+    {
+     "id": "u11_v07",
+     "hangul": "el centro",
+     "romanization": "èl THÈNN-tro",
+     "french": "le centre",
+     "level": 2
+    },
+    {
+     "id": "u11_v08",
+     "hangul": "el metro",
+     "romanization": "èl MÉ-tro",
+     "french": "le métro",
+     "level": 2
+    },
+    {
+     "id": "u11_v09",
+     "hangul": "la terraza",
+     "romanization": "la té-RRA-tha",
+     "french": "la terrasse",
+     "level": 2
+    },
+    {
+     "id": "u11_v10",
+     "hangul": "cada uno",
+     "romanization": "KA-da OU-no",
+     "french": "chacun",
+     "level": 2
+    },
+    {
+     "id": "u11_v11",
+     "hangul": "ahorrar",
+     "romanization": "a-o-RRAR",
+     "french": "économiser",
+     "level": 2
+    },
+    {
+     "id": "u11_v12",
+     "hangul": "el transporte",
+     "romanization": "èl trans-POR-té",
+     "french": "les transports",
+     "level": 2
+    },
+    {
+     "id": "u11_v13",
+     "hangul": "tan importante como",
+     "romanization": "tann imm-por-TANN-té KO-mo",
+     "french": "aussi important que",
+     "level": 2
+    },
+    {
+     "id": "u11_v14",
+     "hangul": "el dinero",
+     "romanization": "èl di-NÉ-ro",
+     "french": "l'argent",
+     "level": 2
+    }
    ]
   },
   {
@@ -1834,6 +2934,106 @@
      ],
      "why": "Participe irrégulier : hecho.",
      "translation": "Qu'as-tu fait aujourd'hui ?"
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u12_v01",
+     "hangul": "¿has estado alguna vez?",
+     "romanization": "as ès-TA-do al-GOU-na bèth ?",
+     "french": "es-tu déjà allé ?",
+     "level": 2
+    },
+    {
+     "id": "u12_v02",
+     "hangul": "la primera vez",
+     "romanization": "la pri-MÉ-ra bèth",
+     "french": "la première fois",
+     "level": 2
+    },
+    {
+     "id": "u12_v03",
+     "hangul": "he llegado",
+     "romanization": "é yé-GA-do",
+     "french": "je suis arrivé",
+     "level": 2
+    },
+    {
+     "id": "u12_v04",
+     "hangul": "esta mañana",
+     "romanization": "ÈS-ta ma-GNA-na",
+     "french": "ce matin",
+     "level": 2
+    },
+    {
+     "id": "u12_v05",
+     "hangul": "tres veces",
+     "romanization": "très BÉ-thès",
+     "french": "trois fois",
+     "level": 2
+    },
+    {
+     "id": "u12_v06",
+     "hangul": "ya",
+     "romanization": "ya",
+     "french": "déjà",
+     "level": 2
+    },
+    {
+     "id": "u12_v07",
+     "hangul": "todavía no",
+     "romanization": "to-da-BI-a no",
+     "french": "pas encore",
+     "level": 2
+    },
+    {
+     "id": "u12_v08",
+     "hangul": "nunca",
+     "romanization": "NOUNN-ka",
+     "french": "jamais",
+     "level": 2
+    },
+    {
+     "id": "u12_v09",
+     "hangul": "la catedral",
+     "romanization": "la ka-té-DRAL",
+     "french": "la cathédrale",
+     "level": 2
+    },
+    {
+     "id": "u12_v10",
+     "hangul": "subir",
+     "romanization": "sou-BIR",
+     "french": "monter",
+     "level": 2
+    },
+    {
+     "id": "u12_v11",
+     "hangul": "las vistas",
+     "romanization": "las BIS-tas",
+     "french": "la vue",
+     "level": 2
+    },
+    {
+     "id": "u12_v12",
+     "hangul": "precioso",
+     "romanization": "pré-THIO-so",
+     "french": "magnifique",
+     "level": 2
+    },
+    {
+     "id": "u12_v13",
+     "hangul": "probar",
+     "romanization": "pro-BAR",
+     "french": "goûter",
+     "level": 2
+    },
+    {
+     "id": "u12_v14",
+     "hangul": "el salmorejo",
+     "romanization": "èl sal-mo-RÉ-kho",
+     "french": "le salmorejo (crème froide de tomate)",
+     "level": 2
     }
    ]
   }
